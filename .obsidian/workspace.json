@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "93b8b5c2c8ab1600",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a8b162f5157b473",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca844a918ff8ec31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Old Xoblob Shop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7297258714b8b71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/npc/Renaer Neverember.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01f18cfdf64b8d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07d4f4a98a5ca316",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5995f0bb8955493",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6ececbf5796e346",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bac75319e2da02d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fish",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a19b86748aff74f0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b13fdb5609d6c85b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aab1834274ab13e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a3a378a276af8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Old Xoblob Shop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33c3bdcd5c9029fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Old Xoblob Shop.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98cd4ef03829b132",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f5a493095e06f407",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Old Xoblob Shop.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "ca844a918ff8ec31",
+  "lastOpenFiles": [
+    "characters/npc/Renaer Neverember.md",
+    "Old Xoblob Shop.md",
+    "characters/player/Isona.md",
+    "characters/npc/Volo.md",
+    "sessions/session 1.md",
+    "sessions/Session 2.md",
+    "characters/npc/Floon.md",
+    "characters/player/Galadriel.md",
+    "sessions/Session 3.md",
+    "Human.md"
+  ]
+}

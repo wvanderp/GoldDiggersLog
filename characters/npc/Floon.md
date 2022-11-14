@@ -6,3 +6,5 @@ what does [[Floon]] look like:
 - early 30ths
 - red wavy long hair
 - sharp dresser
+
+allegedly dating [[Volo]]. they were VERY happy to see each other
