@@ -1,3 +1,11 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "accentColor": "",
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "Dur",
+    "Isona",
+    "Traris",
+    "arcana"
+  ]
 }
