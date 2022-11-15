@@ -41,14 +41,14 @@ in the next room we find
 
 - a half-orc [[Grum'shar]] 
 - a brain with feet
-- a tentical man (later learn this is [[Nihiloor]])
+- a [[mind flayer|tentacle man]] (later learn this is [[Nihiloor]])
 - and a [[Floon]]
 
 roll inisiative
 - [[Dan Sing]]
 - brain
 - [[Renaer Neverember|Renaer]]
-- big tentical guy
+- big [[mind flayer|tentacle guy]]
 - [[Eur Dur]]
 - [[Isona]]
 - [[Galadriel]]
@@ -61,6 +61,6 @@ while being uncontiance
 [[Eur Dur]] gives her a health potion
 
 after a good fight [[Renaer Neverember|Renaer]] kills the half orc
-and the tentical guy portals away
+and the [[mind flayer|tentacle guy]] portals away
 
 

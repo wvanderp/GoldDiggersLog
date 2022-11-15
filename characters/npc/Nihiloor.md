@@ -1,1 +1,1 @@
-mind flayer
+[[mind flayer]]

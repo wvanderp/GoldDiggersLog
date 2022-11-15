@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8a8b162f5157b473",
+        "id": "443908ecbc3f543e",
         "type": "tabs",
         "children": [
           {
-            "id": "ca844a918ff8ec31",
+            "id": "eb5ab8aa4e5ec22d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Old Xoblob Shop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7297258714b8b71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/npc/Renaer Neverember.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01f18cfdf64b8d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/session 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -72,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fish",
+                "query": "ten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Xoblob Shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Old Xoblob Shop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Old Xoblob Shop.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,20 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "ca844a918ff8ec31",
+  "active": "eb5ab8aa4e5ec22d",
   "lastOpenFiles": [
-    "characters/npc/Renaer Neverember.md",
-    "Old Xoblob Shop.md",
-    "characters/player/Isona.md",
-    "characters/npc/Volo.md",
-    "sessions/session 1.md",
+    "sessions/Session 4.md",
     "sessions/Session 2.md",
-    "characters/npc/Floon.md",
-    "characters/player/Galadriel.md",
-    "sessions/Session 3.md",
-    "Human.md"
+    "sessions/session 1.md",
+    "clans/Xanathar.md",
+    "clans/Zhentarim.md",
+    "Volo's Guide to Monsters.md",
+    "Human.md",
+    "Pasted image 20221115231800.png",
+    "Pasted image 20221115231641.png.md",
+    "sessions/Session 3.md"
   ]
 }
