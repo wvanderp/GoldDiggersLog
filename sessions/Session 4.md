@@ -87,8 +87,8 @@ there is only one thing on there mind:
 did [[Volo]] skip town or is he giving this house away
 
 so we geather outside his door and try to wake him. no sucsess.
-knoking down the door is also no option because it would cost 500 gold picess
+knoking down the door is also no option because it would cost 500 gold pices
 
 so when we were unsucessfull in waking him we went downstairs and waited for him
 
-
+[[Isona]] and [[Galadriel]] follow [[Volo]]. but when [[Galadriel]] gets upto follow 

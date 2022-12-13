@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "443908ecbc3f543e",
+        "id": "2d4b58be9541a200",
         "type": "tabs",
         "children": [
           {
-            "id": "eb5ab8aa4e5ec22d",
+            "id": "83312cda388b8b92",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "locations/Yawning Portal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ten",
+                "query": "book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "locations/Yawning Portal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "locations/Yawning Portal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "locations/Yawning Portal.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb5ab8aa4e5ec22d",
+  "active": "83312cda388b8b92",
   "lastOpenFiles": [
-    "sessions/Session 4.md",
-    "sessions/Session 2.md",
-    "sessions/session 1.md",
-    "clans/Xanathar.md",
-    "clans/Zhentarim.md",
-    "Volo's Guide to Monsters.md",
-    "Human.md",
-    "Pasted image 20221115231800.png",
-    "Pasted image 20221115231641.png.md",
-    "sessions/Session 3.md"
+    "locations/Skewered Dragon.md",
+    "locations/Yawning Portal.md",
+    "locations/Spouting Fish.md",
+    "characters/npc/Volo.md",
+    "characters/player/Arthur silverspeak.md",
+    "characters/player/Eur Dur.md",
+    "characters/npc/female guard.md",
+    "characters/npc/Floon.md",
+    "images/memes/Pasted image 20221115225659.png",
+    "images/memes/ezgif.com-gif-maker.gif"
   ]
 }
