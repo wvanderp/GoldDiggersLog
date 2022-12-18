@@ -1,0 +1,1 @@
+female [[Human]] found in the astrology tower of the [[haunted house|ghost house]]

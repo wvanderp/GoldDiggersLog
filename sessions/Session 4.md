@@ -92,3 +92,64 @@ knoking down the door is also no option because it would cost 500 gold pices
 so when we were unsucessfull in waking him we went downstairs and waited for him
 
 [[Isona]] and [[Galadriel]] follow [[Volo]]. but when [[Galadriel]] gets upto follow 
+but when [[Galadriel]] get up to follow [[Volo]], he sits back down again in protest.
+its clear he does not like [[Galadriel]]
+
+after some yelling [[volo]] takes floon with him. but leafs [[Galadriel]] behind
+
+# two tails
+
+a group goes to [[Old Xoblob Shop]] to buy some purple items
+[[Dan Sing]] buys the bulk of the inventory
+
+from here the party splits up. the following acounts should be interwoven but are split for your pleasure:
+
+first [[Isona]]
+
+[[Isona]] follows [[Volo]] but he does what he does what he said what he would do.
+he went home to get the deeds of the house
+
+[[Isona]] goes back to the [[Yawning Portal]]  to check on [[Renaer Neverember|Renaer]].
+but  she makes some moves on him
+and they drink a LOT
+
+and when he passes out in his chambers she says
+
+	your flash will serve nirloor
+
+
+then the party:
+
+[[Galadriel]] goes and meets a friend
+
+when the party reaches [[Volo|volo's]] house. a stom is brewing in the air
+a ghostly sprite is seen behind the window
+
+[[Eur Dur]] burst trought the door and rolls into the building
+
+[[Galadriel]] picks up a doll. a ghost comes out and it attacks [[Galadriel]]
+
+[[Galadriel]] gets hit for 1hp and loses 1 max hitpoint
+
+[[Dan Sing]] looks at the bar and in the dust gets written 
+
+	last call
+
+[[Traris]] wanders in and sees the ghost and shoots an arrow at it doing 9 damage.
+
+[[Eur Dur]] hits it with its axe and aceedenty cleaves it in half
+
+the doll looks like a childs doll
+
+	we will take care of her
+the doll says
+
+on the hearth in the dust it says
+	closing time
+
+[[Dan Sing]] rolls the ball abd a clock sounds
+
+upstairs we heare a mad kakaling laugh and a scream
+
+everybody rushes upstairs
+
