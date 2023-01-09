@@ -115,7 +115,9 @@ and they drink a LOT
 
 and when he passes out in his chambers she says
 
-	your flash will serve nirloor
+	your flesh will serve nirloor
+
+the asumption is that she killed her
 
 
 then the party:

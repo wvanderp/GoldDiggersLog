@@ -5,5 +5,8 @@ potential last name: `silverspeak`
 
 gets possesed by a [[mind flayer]] [[Nihiloor]]
 
+killed [[Renaer Neverember|Renaer]] in the name of [[Nihiloor]]
+
+
 
 

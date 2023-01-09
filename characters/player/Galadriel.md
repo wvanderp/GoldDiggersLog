@@ -4,3 +4,9 @@ lord of bla bla bla
 
 knowns spells:
 - dancing lights
+
+weapons:
+
+- long bow
+- Scimitars
+- 
