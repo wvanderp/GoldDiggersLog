@@ -1,4 +1,4 @@
-Isona (25F), [[human]] [[rogue]] exiled soldier from a neighboring region because of disobeying orders. Found half-dead by [[Traris]] in the to be party and was brought to [[Waterdeep]] to recover.
+Isona (25 F), [[human]] [[rogue]] exiled soldier from a neighboring region because of disobeying orders. Found half-dead by [[Traris]] in the to be party and was brought to [[Waterdeep]] to recover.
 
 has a older brother [[Arthur silverspeak]]
 potential last name: `silverspeak`

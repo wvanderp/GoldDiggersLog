@@ -53,12 +53,12 @@ When [[Renaer Neverember|Renaer]] is asked about [[Floon]] reveals the story of 
 
 Drinks... home??? Jumped... lost Floon...
 
-Then the [[City Guard|city guard]] enter the premises.
+Then the [[City Watch|city guard]] enter the premises.
 
-[[Isona]] tries to steal something while the [[City Guard|city guard]] is entering
+[[Isona]] tries to steal something while the [[City Watch|city guard]] is entering
 [[Galadriel]] tries to stop her but fails
 
-The [[City Guard|city Guard's]] [[Captain Staget]] talks to [[Renaer Neverember]] and he explains the situation
+The [[City Watch|city Guard's]] [[Captain Staget]] talks to [[Renaer Neverember]] and he explains the situation
 
 [[Dan Sing]] tries to pressure the [[Captain Staget|captain]] to giving us a reward for finding this place
 He fails
@@ -93,9 +93,9 @@ Together with the foul smell of raw sewage
 A line is formed, and a sneaky march is started down the sewer lines.
 
 After following the sewers for an hour, we find a creature.
-A big [[gazer|floating eye]] 
+A big [[gazer|floating eye]] with tentacles.
 
-Roll initiative 
+Roll initiative
 - Traris
 - Isona
 - Galadriel

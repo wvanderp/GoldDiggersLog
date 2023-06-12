@@ -1,4 +1,4 @@
-We are still at the [[haunted house|ghost house]] known as [[Volo|Volo's]] payment.
+We are still at the [[Hobsens Hub|ghost house]] known as [[Volo|Volo's]] payment.
 
 We are starting to go up the stairs.
 

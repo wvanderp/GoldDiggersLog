@@ -2,7 +2,7 @@
 aliases: [Arthur]
 ---
 
-a man of average stature
+a man (25 M) of average stature
 
 not from the army
 

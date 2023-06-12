@@ -26,7 +26,7 @@ After the lute music starts, every character makes a big entrance into the main 
 Lastly, [[Dan Sing]] comes out and explains the situation to the barkeep.
 He tells about the [[goblin]] infestation and shows the [[gazer]] head we slain right at the bottom of the stairs
 
-The barkeep sends for the [[City Guard]], and [[Captain Staget]] answers the call. 
+The barkeep sends for the [[City Watch]], and [[Captain Staget]] answers the call. 
 The first thing we do is haggle him for money (see also [[Session 2#Zhentarim hideout|our adventure in the Zhentarim hideout]])
 
 We explain to him about the walking brain and the [[mind flayer|tentacle monster]]
@@ -37,8 +37,13 @@ We explain to him about the walking brain and the [[mind flayer|tentacle monster
 
 After we cleaned ourselves at a bathhouse, we walked to the [[Yawning Portal]] to retrieve our loot and also deliver [[Floon]]
 
+<<<<<<< Updated upstream
 We talk to [[Volo]], and "he says he ain't got no money."
 But he has a [[haunted house|house]] 
+=======
+we talk to [[Volo]] and "he says he aint got no money"
+but he has a [[Hobsens hub|house]] 
+>>>>>>> Stashed changes
 
 ![[Pasted image 20221115225659.png|200]]
 
