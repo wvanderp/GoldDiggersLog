@@ -4,4 +4,3 @@ might know [[Traris]]
 works for the [[City watch]]
 
 met her in the [[Zhentarim]] hideout (see [[Session 2#zhentarim hidout]])
-

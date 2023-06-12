@@ -8,10 +8,11 @@ second in line of a throne (claimed)
 dating [[Arthur silverspeak|Arthur]] (implied by there night walk [[session 7]])
 
 known spells:
+
 - dancing lights
 
 weapons:
 
 - long bow
 - Scimitars
-- 
+-

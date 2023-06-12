@@ -79,7 +79,6 @@ Natural 20
                You filthy thingy
                - Dan sing
 
-
 [[Jenks]] says more ghosts are in the house.
 He heard that from [[Lif]], the tavern ghost.
 
@@ -138,7 +137,7 @@ We find another ghost in the opening of the last door on the level.
 
 Arthur throws his daggers and kills the ghost. They bounce off the bathtub and right back into his hands.
 
-[[Dan Sing]] stats 
+[[Dan Sing]] stats
 
                We need to save the children
                -Dan sing
@@ -146,11 +145,11 @@ This gives everybody bardic inspiration
 
 [[Ned]] and [[Jenks]] storm into the southern room.
 In the room, we see [[Squiddly]] in a soup with more ghosts surrounding him.
-Brewing the soup is a [[hag]] 
+Brewing the soup is a [[hag]]
 
 ![[Pasted image 20221213221738.png]]
 
-[[Traris]] and [[Galadriel]] grap [[Jenks]] and [[Ned]] 
+[[Traris]] and [[Galadriel]] grap [[Jenks]] and [[Ned]]
 
 [[Eur Dur]] tries to throw [[Arthur silverspeak|Arthur]] into the room
 But instead, he throws out his back

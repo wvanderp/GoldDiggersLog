@@ -2,17 +2,11 @@ we start the session in the boiler room with a [[hag]] preparing some teethling 
 
 ![[hagFight.jpg]]
 
-
-
-
-
 we finish the session both going to the courd house and to [[Renaer Neverember|Renaer's]] house
 
 hobsens hub
 
 we go to a fancy book store
-
-
 
 we went to the black staff tower
 
@@ -28,5 +22,5 @@ on the mountain we meet a monk called halam
 the guy has weird vibes
 he has a vision of weird shit
 
-then we went back to the blackstaff 
+then we went back to the blackstaff
 and joined the [[Gray Hands]]

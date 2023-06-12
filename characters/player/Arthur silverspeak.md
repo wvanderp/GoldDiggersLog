@@ -6,6 +6,6 @@ a man (25 M) of average stature
 
 not from the army
 
-he is a thive a real robbinhood character
+he is a thieve a real robbinhood character
 
 older brother of [[Isona]] (but she is the more responsible)

@@ -5,9 +5,8 @@ aliases: [Renaer]
 friend of [[Floon]].
 son of [[Dagult Neverember]]
 
-
-unconfermed: he Controls the Police
-unconfermed: he is a one hit wonder
+unconfirmed: he Controls the Police
+unconfirmed: he is a one hit wonder
 confirmed: can't handle liqure
 unconfirmed: MIA by [[Isona]] (lost and found???)
 last seen alive by [[Bonni]] in the [[Yawning Portal]]

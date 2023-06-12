@@ -23,10 +23,11 @@ And untied his mouth. It starts screaming
 We all stumble into the small room next to the roundabout
 We prepare for battle
 
-[[Dan Sing]] intimidates the [[goblin]] 
+[[Dan Sing]] intimidates the [[goblin]]
 The [[goblin]] is so scared that it pisses his pants
 
 The goblin answers the following
+
 - I don't know how many are coming
 - 7 goblins???
 - This is a hideout
@@ -37,14 +38,15 @@ Then [[Dan Sing]] knocks him out, and the rest of the group starts stealing
 
 We enter the room with the stone pillar.
 
-In the next room, we find 
+In the next room, we find
 
-- A half-orc [[Grum'shar]] 
+- A half-orc [[Grum'shar]]
 - A brain with feet
 - A [[mind flayer|tentacle man]] (later learn this is [[Nihiloor]])
 - And a [[Floon]]
 
 Roll initiative
+
 - [[Dan Sing]]
 - Brain
 - [[Renaer Neverember|Renaer]] we left off in the [[sewers]] after killing the [[gazer]]
@@ -72,10 +74,11 @@ And untied his mouth. It starts screaming
 We all stumble into the small room next to the roundabout
 We prepare for battle
 
-[[Dan Sing]] intimidates the [[goblin]] 
+[[Dan Sing]] intimidates the [[goblin]]
 The [[goblin]] is so scared that it pisses his pants
 
 The goblin answers the following
+
 - I don't know how many are coming
 - 7 goblins???
 - This is a hideout
@@ -86,14 +89,15 @@ Then [[Dan Sing]] knocks him out, and the rest of the group starts stealing
 
 We enter the room with the stone pillar.
 
-In the next room, we find 
+In the next room, we find
 
-- A half-orc [[Grum'shar]] 
+- A half-orc [[Grum'shar]]
 - A brain with feet
 - A [[mind flayer|tentacle man]] (later learn this is [[Nihiloor]])
 - And a [[Floon]]
 
 Roll initiative
+
 - [[Dan Sing]]
 - Brain
 - [[Renaer Neverember|Renaer]]

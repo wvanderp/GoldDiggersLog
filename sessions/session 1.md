@@ -1,4 +1,4 @@
-# [[Yawning Portal]] 
+# [[Yawning Portal]]
 
 **roll initiative**
 [[Traris]]
@@ -9,7 +9,7 @@ Some guys
 
 [[Yara|a female half-orc]] is fighting with a human. At some point, the half-orc knocks out the human, and four of his friends take over the fight. The half-orc, who seemed to be winning, is now losing the fight. The owner of the tavern commands everybody out. The half-orc falls unconscious.
 
-During the fight, [[Traris]] and [[Galadriel]] stay at the table, enjoying a delicious glass of wine. [[Eur Dur|eur]] and [[Isona]] "try" to jump into the action. [[Isona]] gets one and grapples him. While [[Eur Dur]] fails at jumping from a table and gets some points in emotional damage. 
+During the fight, [[Traris]] and [[Galadriel]] stay at the table, enjoying a delicious glass of wine. [[Eur Dur|eur]] and [[Isona]] "try" to jump into the action. [[Isona]] gets one and grapples him. While [[Eur Dur]] fails at jumping from a table and gets some points in emotional damage.
 [[Dan Sing]], who was watching from the first floor while playing a "fighting" song
 
 The half-orc is part of the [[Zhentarim]]. The humans were from the [[Xanathar]].
@@ -26,7 +26,7 @@ The elves join the fight for the first time by drawing an arrow and delivering a
 
 The bats launch towards the bar with [[Traris]] and [[Galadriel]] behind it. Galadriel jumps up from behind the bar and fires an arrow that sends one of the bat creatures to death.
 
-[[Eur Dur]] throws a hand-axe, and it was very inefficient 
+[[Eur Dur]] throws a hand-axe, and it was very inefficient
 [[Galadriel]] sends a flaming arrow, and it was very effective
 
 [[Isona]] runs back into the bar
@@ -35,7 +35,7 @@ The bats launch towards the bar with [[Traris]] and [[Galadriel]] behind it. Gal
 
 [[Dan Sing]] tries to save his bard friend but misses
 
-Then the barkeep draws his mighty sword and slashes the troll. And it dies falling back into the well. 
+Then the barkeep draws his mighty sword and slashes the troll. And it dies falling back into the well.
 
 [[Eur Dur]] is "inspired" by the display and throws his second hand-axe... the hand-axe misses
 
@@ -73,6 +73,7 @@ While walking, we come across a street filled with bodies. All of them have eyes
 We keep walking in a bad neighbourhood.
 
 # In the [[Skewered Dragon]]
+
 [[Isona]] tries to find some information with her womanly charms. But finds that a few coppers work better.
 
 [[Floon]] was here drinking with [[Renaer Neverember]], and they left together
@@ -91,11 +92,12 @@ He saw the two read heads being kidnapped by the [[Zhentarim|snake people]]. And
 
 Slowly a plan is formed.
 
-Either 
+Either
+
 - kick in the door
 - Or sneak in
 
-We chose to sneak in (the door can always be kicked in). It went very well but then [[Isona]] got caught 
+We chose to sneak in (the door can always be kicked in). It went very well but then [[Isona]] got caught
 
 **roll initiative**
 
