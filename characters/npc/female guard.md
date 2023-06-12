@@ -1,4 +1,4 @@
-might knows [[Traris]]
+might know [[Traris]]
 [[Traris]] didnt recognise her
 
 works for the [[City Guard]]

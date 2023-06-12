@@ -1,66 +1,128 @@
-we left off in the [[sewers]] after killing the [[gazer]]
+We left off in the [[sewers]] after killing the [[gazer]]
 
 [[Dan Sing]] stole the head of the [[gazer]]
 
-there were some good and some bad stealth rolls.
+There were some good and some bad stealth rolls.
 
-[[Eur Dur]] leads the group in coninuing following the tunnels
+[[Eur Dur]] leads the group in continuing following the tunnels
 
-we find the follwing map:
+We find the following map:
 ![[PXL_20221114_225910154.jpg]]
 ![[PXL_20221114_175207521.jpg]]
 
-[[Eur Dur]] looks trought the arrow slits but seen nothing
-[[Isona]] also looks trought an arrow slit but also sees nothing
-[[Traris]] looks trought a arrow slit but sees nothing
+[[Eur Dur]] looks through the arrow slits but sees nothing
+[[Isona]] also looks through an arrow slit but also sees nothing
+[[Traris]] looks through an arrow slit but sees nothing
 
-[[Traris]] opens a door. it scrapes open
-behind the door are more rooms
+[[Traris]] opens a door. It scrapes open
+Behind the door are more rooms
 
-one with a [[goblin]] asleep. we grappeld it.
-and the untied his mout. it starts screeming
+One with a [[goblin]] asleep. We grappled it.
+And untied his mouth. It starts screaming
 
-we all stumble into the small room next to the round about
-we prepare for battle
+We all stumble into the small room next to the roundabout
+We prepare for battle
 
 [[Dan Sing]] intimidates the [[goblin]] 
-the [[goblin]] is so scared that it pissis his pants
+The [[goblin]] is so scared that it pisses his pants
 
-the goblin awnsers the following
-- I dont know how many are comming
+The goblin answers the following
+- I don't know how many are coming
 - 7 goblins???
-- this is a hideout
-- [[Grum'shar]] is the boss of the hidout
-- traps???
+- This is a hideout
+- [[Grum'shar]] is the boss of the hideout
+- Traps???
 
-then [[Dan Sing]] knoks him out and the rest of the group starts stealing
+Then [[Dan Sing]] knocks him out, and the rest of the group starts stealing
 
-we enter the room with the stone pillar
+We enter the room with the stone pillar.
 
-in the next room we find 
+In the next room, we find 
 
-- a half-orc [[Grum'shar]] 
-- a brain with feet
-- a [[mind flayer|tentacle man]] (later learn this is [[Nihiloor]])
-- and a [[Floon]]
+- A half-orc [[Grum'shar]] 
+- A brain with feet
+- A [[mind flayer|tentacle man]] (later learn this is [[Nihiloor]])
+- And a [[Floon]]
 
-roll inisiative
+Roll initiative
 - [[Dan Sing]]
-- brain
+- Brain
+- [[Renaer Neverember|Renaer]] we left off in the [[sewers]] after killing the [[gazer]]
+
+[[Dan Sing]] stole the head of the [[gazer]]
+
+There were some good and some bad stealth rolls.
+
+[[Eur Dur]] leads the group in continuing following the tunnels
+
+We find the following map:
+![[PXL_20221114_225910154.jpg]]
+![[PXL_20221114_175207521.jpg]]
+
+[[Eur Dur]] looks through the arrow slits but sees nothing
+[[Isona]] also looks through an arrow slit but also sees nothing
+[[Traris]] looks through an arrow slit but sees nothing
+
+[[Traris]] opens a door. It scrapes open
+Behind the door are more rooms
+
+One with a [[goblin]] asleep. We grappled it.
+And untied his mouth. It starts screaming
+
+We all stumble into the small room next to the roundabout
+We prepare for battle
+
+[[Dan Sing]] intimidates the [[goblin]] 
+The [[goblin]] is so scared that it pisses his pants
+
+The goblin answers the following
+- I don't know how many are coming
+- 7 goblins???
+- This is a hideout
+- [[Grum'shar]] is the boss of the hideout
+- Traps???
+
+Then [[Dan Sing]] knocks him out, and the rest of the group starts stealing
+
+We enter the room with the stone pillar.
+
+In the next room, we find 
+
+- A half-orc [[Grum'shar]] 
+- A brain with feet
+- A [[mind flayer|tentacle man]] (later learn this is [[Nihiloor]])
+- And a [[Floon]]
+
+Roll initiative
+- [[Dan Sing]]
+- Brain
 - [[Renaer Neverember|Renaer]]
-- big [[mind flayer|tentacle guy]]
+- Big [[mind flayer|tentacle guy]]
 - [[Eur Dur]]
 - [[Isona]]
 - [[Galadriel]]
-- the half orc
+- The half-orc
 - [[Traris]]
 
-[[Isona]] gets possesed by the brain ???
-while being uncontiance
+[[Isona]] gets possessed by the brain???
+While being Unconscious
 
 [[Eur Dur]] gives her a health potion
 
-after a good fight [[Renaer Neverember|Renaer]] kills the half orc
-and the [[mind flayer|tentacle guy]] portals away
+After a good fight [[Renaer Neverember|Renaer]] kills the half orc
+And the [[mind flayer|tentacle guy]] portals away
 
+- Big [[mind flayer|tentacle guy]]
+- [[Eur Dur]]
+- [[Isona]]
+- [[Galadriel]]
+- The half-orc
+- [[Traris]]
 
+[[Isona]] gets possessed by the brain???
+While being Unconscious
+
+[[Eur Dur]] gives her a health potion
+
+After a good fight [[Renaer Neverember|Renaer]] kills the half orc
+And the [[mind flayer|tentacle guy]] portals away

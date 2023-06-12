@@ -1,157 +1,156 @@
 We are in the [[sewers]] about to leave...
-or take a short rest...
-or exploring more...
-or leaving...
+Or take a short rest...
+Or exploring more...
+Or leaving...
 
-after some healty descussion we decide on leaving
-we follow the [[sewers]] back and find a random stairs up
+After some healthy discussion, we decide on leaving
+We follow the [[sewers]] back and find a random stair up
 
-[[Isona]] makes a steath check to peak trough the sewer cover
-she sees a basement
-[[Traris]] also takes a look and hears sounds of a tavern
+[[Isona]] makes a stealth check to peek through the sewer cover
+She sees a basement
+[[Traris]] also takes a look and hears the sounds of a tavern
 
-[[Isona]] goes up and peaks out the the door. she reports back that we are in a fancy tavern
+[[Isona]] goes up and peaks out the door. She reports back that we are in a fancy tavern.
 
-[[Dan Sing]] recognices the tevern as the [[Spouting Fish]] 
+[[Dan Sing]] recognizes the tavern as the [[Spouting Fish]] 
 
-[[Dan Sing]] prepairs a big entrance number 
-after the lute music starts every character makes a big entrance into the main tavarn room
+[[Dan Sing]] prepares a big entrance number 
+After the lute music starts, every character makes a big entrance into the main tavern room.
 
-[[Galadriel]] makes a royal entrance. while [[Traris]] is more reserved. they both sit a the same table
+[[Galadriel]] makes a royal entrance. While [[Traris]] is more reserved. They both sit at the same table.
 
-[[Isona]] walks out and picks diffrent table
+[[Isona]] walks out and picks a different table
 
-[[Eur Dur]] uses jazz hands and jazz hands straght out of the door
+[[Eur Dur]] uses jazz hands and jazz hands straight out of the door
 
-lastly [[Dan Sing]] comes out and explains the situation to the bar keep.
-he tells about the [[goblin]] infastaion and show the [[gazer]] head we slain right at the bottom of the stairs
+Lastly, [[Dan Sing]] comes out and explains the situation to the barkeep.
+He tells about the [[goblin]] infestation and shows the [[gazer]] head we slain right at the bottom of the stairs
 
-the bar keep sends for the [[City Guard]] and [[Captain Staget]] awnsers the call. 
-first thing we do is haggle him for mony (see also [[Session 2#Zhentarim hideout|our andventur in the zhentarim hidout]])
+The barkeep sends for the [[City Guard]], and [[Captain Staget]] answers the call. 
+The first thing we do is haggle him for money (see also [[Session 2#Zhentarim hideout|our adventure in the Zhentarim hideout]])
 
-we explain to him about the walking brain and the [[mind flayer|tentacle monster]]
+We explain to him about the walking brain and the [[mind flayer|tentacle monster]]
 
 [[Captain Staget]] sends for guards to check out the [[sewers]]
 
-# celibrations at the [[Yawning Portal]]
+# Celebrations at the [[Yawning Portal]]
 
-after we cleaned our selfs at a bath house, we walk to the [[Yawning Portal]] to retrive our loot and also delever [[Floon]]
+After we cleaned ourselves at a bathhouse, we walked to the [[Yawning Portal]] to retrieve our loot and also deliver [[Floon]]
 
-we talk to [[Volo]] and "he says he aint got no money"
-but he has a [[haunted house|house]] 
+We talk to [[Volo]], and "he says he ain't got no money."
+But he has a [[haunted house|house]] 
 
 ![[Pasted image 20221115225659.png|200]]
 
-the first reaction is one of but we like money.
-and why would we need a house if we are staying at [[Renaer Neverember|Renaer's]] 
+The first reaction is, "but we like money."
+And why would we need a house if we are staying at [[Renaer Neverember| Renaer's]] 
 
-at this moment we found out that we were not welcome any more at [[Renaer Neverember|Renaer's]]
+At this moment, we found out that we were not welcome anymore at [[Renaer Neverember| Renaer's]]
 
-> you are not staying at my place
+> You are not staying at my place
 > \- [[Renaer Neverember]]
 
-[[Galadriel]] feld very ivided and intitaled to [[Renaer Neverember|Renaer's house]]
-but [[Renaer Neverember|Renaer]] had to insised on not letting us stay
+[[Galadriel]] felt very invited and entitled to [[Renaer Neverember|Renaer's house]]
+But [[Renaer Neverember|Renaer]] had to insist on not letting us stay
 
-we decide to visid the house in the moring
+We decided to visit the house in the morning.
 
-[[Dan Sing]] reads the room and orders beer for every one
-rescued kidnapees and dirty adventures
+[[Dan Sing]] reads the room and orders beer for everyone
+Rescued kidnapped and dirty adventures
 
-in the tavern many beers are drunk 
-but [[Galadriel]] could not keep her mind of the [[mind flayer]]
-[[Eur Dur]] is always up for a trip to the liberary so they go and research
+In the tavern, many beers are drunk. 
+But [[Galadriel]] could not keep her mind of the [[mind flayer]]
+[[Eur Dur]] is always up for a trip to the library, so they go and research
 
-# to the liberary
+# To the library
 
 ![[ezgif.com-gif-maker.gif|150]]
 
-[[Eur Dur]] procedes to flip trough [[Volo's Guide to Monsters]]
-and quickly finds what he is looking for
+[[Eur Dur]] proceeds to flip through [[Volo's Guide to Monsters]]
+And quickly finds what he is looking for
 
-he finds that the monster could be a [[mind flayer]]
-a moster that eats brainz 
+He finds that the monster could be a [[mind flayer]]
+A monster that eats brainz 
 
-[[Galadriel]] finds out that ther are many news paper clipings about murdered people missing there brains 
+[[Galadriel]] finds out that there are many newspaper clippings about murdered people missing their brains 
 
-there seam to be more [[Zhentarim|snake people]] victems then [[Xanathar|eye people]] 
+There seem to be more [[Zhentarim|snake people]] victims then [[Xanathar|eye people]] 
 
-# back at the [[Yawning Portal]]
+# Back at the [[Yawning Portal]]
 
-many drinks where drunk. everybody was plastered
+Many drinks were drunk. Everybody was plastered
 [[Renaer Neverember|Renaer]] got the worst of it 
-after some more drinks the party decides that its time to go to bed
+After some more drinks, the party decides it's time to go to bed.
 
-the next morning the party rizes late and hung over.
-there is only one thing on there mind:
-did [[Volo]] skip town or is he giving this house away
+The following day the party rises late and hungover.
+There is only one thing on their mind:
+Did [[Volo]] skip town, or is he giving this house away
 
-so we geather outside his door and try to wake him. no sucsess.
-knoking down the door is also no option because it would cost 500 gold pices
+So we gather outside his door and try to wake him. No success.
+Knocking down the door is also no option because it would cost 500 gold prices.
 
-so when we were unsucessfull in waking him we went downstairs and waited for him
+So when we were unsuccessful in waking him, we went downstairs and waited for him.
 
-[[Isona]] and [[Galadriel]] follow [[Volo]]. but when [[Galadriel]] gets upto follow 
-but when [[Galadriel]] get up to follow [[Volo]], he sits back down again in protest.
-its clear he does not like [[Galadriel]]
+[[Isona]] and [[Galadriel]] follow [[Volo]]. But when [[Galadriel]] gets up to follow 
+But when [[Galadriel]] gets up to follow [[Volo]], he sits back down again in protest.
+It's clear he does not like [[Galadriel]]
 
-after some yelling [[volo]] takes floon with him. but leafs [[Galadriel]] behind
+After some yelling, [[volo]] takes floon with him. But leafs [[Galadriel]] behind
 
-# two tails
+# Two tails
 
-a group goes to [[Old Xoblob Shop]] to buy some purple items
+A group goes to [[Old Xoblob Shop]] to buy some purple items
 [[Dan Sing]] buys the bulk of the inventory
 
-from here the party splits up. the following acounts should be interwoven but are split for your pleasure:
+From here, the party splits up. The following accounts should be interwoven but are split for your pleasure:
 
-first [[Isona]]
+First [[Isona]]
 
-[[Isona]] follows [[Volo]] but he does what he does what he said what he would do.
-he went home to get the deeds of the house
+[[Isona]] follows [[Volo]], but he does what he said he would do.
+He went home to get the deeds of the house.
 
-[[Isona]] goes back to the [[Yawning Portal]]  to check on [[Renaer Neverember|Renaer]].
-but  she makes some moves on him
-and they drink a LOT
+[[Isona]] goes back to the [[Yawning Portal]] to check on [[Renaer Neverember|Renaer]].
+But she makes some moves on him
+And they drink a LOT
 
-and when he passes out in his chambers she says
+And when he passes out in his chambers, she says
 
-	your flesh will serve nirloor
+	Your flesh will serve nirloor
 
-the asumption is that she killed her
-
-
-then the party:
+Then the party:
 
 [[Galadriel]] goes and meets a friend
 
-when the party reaches [[Volo|volo's]] house. a stom is brewing in the air
-a ghostly sprite is seen behind the window
+When the party reaches [[Volo| volo's]] house, a storm is brewing in the air.
+A ghostly sprite is seen behind the window.
 
-[[Eur Dur]] burst trought the door and rolls into the building
+[[Eur Dur]] burst through the door and rolled into the building
 
-[[Galadriel]] picks up a doll. a ghost comes out and it attacks [[Galadriel]]
+[[Galadriel]] picks up a doll. A ghost comes out, and it attacks [[Galadriel]]
 
-[[Galadriel]] gets hit for 1hp and loses 1 max hitpoint
+[[Galadriel]] gets hit for 1hp and loses 1 max hit point
 
-[[Dan Sing]] looks at the bar and in the dust gets written 
+[[Dan Sing]] looks at the bar, and in the dust, gets written 
 
-	last call
+	Last call
 
-[[Traris]] wanders in and sees the ghost and shoots an arrow at it doing 9 damage.
+[[Traris]] wanders in, sees the ghost, and shoots an arrow at it doing nine damage.
 
-[[Eur Dur]] hits it with its axe and aceedenty cleaves it in half
+[[Eur Dur]] hits it with its axe and accident cleaves it in half
 
-the doll looks like a childs doll
+The doll looks like a child's doll.
 
-	we will take care of her
-the doll says
+	We will take care of her.
 
-on the hearth in the dust it says
-	closing time
+The doll says
 
-[[Dan Sing]] rolls the ball abd a clock sounds
+On the hearth in the dust, it says
 
-upstairs we heare a mad kakaling laugh and a scream
+	Closing time
 
-everybody rushes upstairs
+[[Dan Sing]] rolls the ball, and a clock sounds
+
+Upstairs we hear a mad kakaling laugh and a scream.
+
+Everybody rushes upstairs
 

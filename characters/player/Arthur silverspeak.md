@@ -8,4 +8,4 @@ not from the army
 
 he is a thive a real robbinhood character
 
-brother of [[Isona]]
+older brother of [[Isona]] (but she is the more responsible)

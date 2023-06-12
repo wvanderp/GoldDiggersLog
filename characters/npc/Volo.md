@@ -2,4 +2,4 @@ Volothamp **volo** Geddarm is a quest giver in the [[Yawning Portal]] and queste
 
 writer of Volo's Guide to Monsters
 
-aladigly dating [[Floon]]
+Allegedly dating [[Floon]]
