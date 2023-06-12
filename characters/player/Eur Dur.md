@@ -2,9 +2,9 @@ Eur Dur (55 M), [[mountain dwarf]] [[fighter]], a dwarf driven by knowledge and 
 
 ## backstory
 
-race: mountain dwarf
+Race: mountain dwarf
 
-class: fighter
+Class: fighter
 
 ### backstory
 

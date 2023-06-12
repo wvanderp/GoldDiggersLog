@@ -19,7 +19,7 @@ He taught them how to count with their toes and their fists,
 And soon the orcs were counting with glee and delight.
 
 One, two, three, four, five, six, seven, eight, Nine, ten,
-we're counting now, it's not too late!
+We're counting now, it's not too late!
 Orcs can learn and have fun, it's not a fate,
 We'll all be experts at counting in no time, just wait!
 
@@ -31,4 +31,4 @@ And soon they were experts at counting, don't you know.
 So if you're an orc and you're feeling a bit lost,
 Just remember Grishnak and the counting he taught.
 One, two, three, four, five, six, seven, eight, Nine, ten,
-now you know how to count, it's great!
+Now you know how to count, it's great!

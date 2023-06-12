@@ -38,11 +38,11 @@ We explain to him about the walking brain and the [[mind flayer|tentacle monster
 After we cleaned ourselves at a bathhouse, we walked to the [[Yawning Portal]] to retrieve our loot and also deliver [[Floon]]
 
 We talk to [[Volo]], and "he says he ain't got no money."
-but he has a [[Hobsens hub|house]]
+But he has a [[Hobsens hub|house]]
 
 ![[Pasted image 20221115225659.png|200]]
 
-The first reaction is, "but we like money."
+The first reaction is, "But we like money."
 And why would we need a house if we are staying at [[Renaer Neverember| Renaer's]]
 
 At this moment, we found out that we were not welcome anymore at [[Renaer Neverember| Renaer's]]
@@ -115,13 +115,13 @@ And they drink a LOT
 
 And when he passes out in his chambers, she says
 
- Your flesh will serve nirloor
+ Your flesh will serve [[Nihiloor]]
 
 Then the party:
 
 [[Galadriel]] goes and meets a friend
 
-When the party reaches [[Volo| volo's]] house, a storm is brewing in the air.
+When the party reaches [[Volo|volo's]] house, a storm is brewing in the air.
 A ghostly sprite is seen behind the window.
 
 [[Eur Dur]] burst through the door and rolled into the building
@@ -150,6 +150,6 @@ On the hearth in the dust, it says
 
 [[Dan Sing]] rolls the ball, and a clock sounds
 
-Upstairs we hear a mad kakaling laugh and a scream.
+Upstairs we hear a mad cackling laugh and a scream.
 
 Everybody rushes upstairs

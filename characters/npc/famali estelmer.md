@@ -1,3 +1,3 @@
-two woman and two kids
+Two woman and two kids
 
-lend us money to start [[hobbsens hubs]]
+Lend us money to start [[Hobsens hub]]

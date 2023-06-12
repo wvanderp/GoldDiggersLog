@@ -1,6 +1,6 @@
-might know [[Traris]]
+Might know [[Traris]]
 [[Traris]] didnt recognise her
 
-works for the [[City watch]]
+Works for the [[City watch]]
 
-met her in the [[Zhentarim]] hideout (see [[Session 2#zhentarim hidout]])
+Met her in the [[Zhentarim]] hideout (see [[Session 2#zhentarim hidout]])

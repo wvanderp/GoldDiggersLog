@@ -1,6 +1,6 @@
 Floon is missing have you seen him?
 
-what does [[Floon]] look like:
+What does [[Floon]] look like:
 
 - hansome [[Human]] male
 - early 30ths

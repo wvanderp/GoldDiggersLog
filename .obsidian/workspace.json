@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "40d27318ae6deb93",
+        "id": "92a4031f8bab2477",
         "type": "tabs",
         "children": [
           {
-            "id": "80f408f6b3d5e091",
+            "id": "dec729902d4e667d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4817b9642f8fb037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5b153fc4de8b3bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/player/Traris.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e9ed4ef85bfffe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/npc/female guard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa40ea2dcae5c505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/npc/the dynamic three/Squiddly.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "guard",
+                "query": "volo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +62,7 @@
             }
           },
           {
-            "id": "5142c4b27bdd2afd",
+            "id": "5482ff2b92597fb0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -198,35 +145,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6ececbf5796e346",
+  "active": "dec729902d4e667d",
   "lastOpenFiles": [
-    "locations/Hobsens hub.md",
-    "locations/Come On Inn.md",
-    "clans/City watch.md",
-    "Blackstaff.md",
-    "images/maps/hagFight.jpg",
-    "characters/npc/famali estelmer.md",
-    "adminstration.md",
-    "locations/haunted house.md",
-    "clans/City Guard.md",
-    "locations/Old Xoblob Shop.md",
     "sessions/Session 4.md",
-    "sessions/Session 2.md",
-    "sessions/Session 6.md",
-    "characters/player/Traris.md",
-    "characters/npc/female guard.md",
-    "characters/npc/Renaer Neverember.md",
-    "sessions/Session 3.md",
-    "characters/player/Galadriel.md",
-    "characters/npc/mind flayer.md",
-    "characters/npc/Nihiloor.md",
-    "characters/player/Isona.md",
-    "Untitled.canvas",
-    "sessions/session 1.md",
     "sessions/Session 5.md",
-    "characters/player/Eur Dur.md",
+    "adminstration.md",
+    "sessions/Session 6.md",
+    "characters/npc/Blackstaff.md",
+    "characters/npc/Floon.md",
+    "characters/npc/female guard.md",
+    "characters/npc/famali estelmer.md",
+    "characters/npc/Renaer Neverember.md",
+    "characters/npc/the dynamic three/Ned.md",
+    "characters/npc/the dynamic three/Squiddly.md",
+    "characters/npc/the dynamic three/Jenks.md",
+    "locations/Yawning Portal.md",
+    "locations/Old Xoblob Shop.md",
+    "locations/Hobsens hub.md",
+    "hobbsens hubs.md",
+    "characters/player/Arthur silverspeak.md",
     "characters/player/Dan Sing.md",
-    "characters/npc/Yara.md",
-    "characters/npc/Volo.md"
+    "characters/player/Eur Dur.md",
+    "characters/player/Galadriel.md",
+    "characters/player/Traris.md",
+    "characters/player/Isona.md"
   ]
 }

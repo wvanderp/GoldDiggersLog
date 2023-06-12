@@ -2,4 +2,4 @@
 aliases: [snake people]
 ---
 
-crime organization with snakes as their symbols
+Crime organization with snakes as their symbols

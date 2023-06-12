@@ -1,3 +1,3 @@
-written by [[Volo]]
+Written by [[Volo]]
 
-signed copies are underway for [[Dan Sing]], [[Isona]], and [[Eur Dur]]
+Signed copies are underway for [[Dan Sing]], [[Isona]], and [[Eur Dur]]
