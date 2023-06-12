@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37309601ce825c77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/player/Galadriel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6a8da81b548d801",
+            "id": "80f408f6b3d5e091",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,36 +20,36 @@
             }
           },
           {
-            "id": "174dcce515f98157",
+            "id": "4817b9642f8fb037",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adminstration.md",
+                "file": "sessions/Session 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c009a916de6445bc",
+            "id": "e5b153fc4de8b3bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/npc/mind flayer.md",
+                "file": "characters/player/Traris.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "955b3f5568afe14a",
+            "id": "4e9ed4ef85bfffe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clans/Zhentarim.md",
+                "file": "characters/npc/female guard.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +87,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -109,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "min",
+                "query": "guard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/npc/mind flayer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/npc/mind flayer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,16 +179,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "characters/npc/mind flayer.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,17 +198,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c009a916de6445bc",
+  "active": "b6ececbf5796e346",
   "lastOpenFiles": [
-    "locations/Old Xoblob Shop.md",
-    "clans/Xanathar.md",
+    "locations/Hobsens hub.md",
+    "locations/Come On Inn.md",
+    "clans/City watch.md",
+    "Blackstaff.md",
+    "images/maps/hagFight.jpg",
+    "characters/npc/famali estelmer.md",
     "adminstration.md",
-    "locations/Yawning Portal.md",
-    "characters/player/Isona.md",
-    "characters/npc/Renaer Neverember.md",
-    "characters/npc/Floon.md",
+    "locations/haunted house.md",
+    "clans/City Guard.md",
+    "locations/Old Xoblob Shop.md",
+    "sessions/Session 4.md",
     "sessions/Session 2.md",
-    "characters/player/Arthur silverspeak.md",
-    "objects/books/Counting to ten for orcs.md"
+    "sessions/Session 6.md",
+    "characters/player/Traris.md",
+    "characters/npc/female guard.md",
+    "characters/npc/Renaer Neverember.md",
+    "sessions/Session 3.md",
+    "characters/player/Galadriel.md",
+    "characters/npc/mind flayer.md",
+    "characters/npc/Nihiloor.md",
+    "characters/player/Isona.md",
+    "Untitled.canvas",
+    "sessions/session 1.md",
+    "sessions/Session 5.md",
+    "characters/player/Eur Dur.md",
+    "characters/player/Dan Sing.md",
+    "characters/npc/Yara.md",
+    "characters/npc/Volo.md"
   ]
 }
