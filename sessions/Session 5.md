@@ -108,7 +108,7 @@ She sees the wall.
                - Dan sing
 
 Then [[Arthur silverspeak|Arthur]] insults the party's taste in houses.
-[[Dan Sing]] tells him off, `how can you say that when there are children still missing`.
+[[Dan Sing]] tells him off, `How can you say that when there are children still missing`.
 
 [[Eur Dur]] tries to intimidate a door. It was not scared
 Embarrassed by his failure, he tries to chop the door into pieces
@@ -133,7 +133,7 @@ Instead [[Eur Dur]] hits the thing
 
 We find another ghost in the opening of the last door on the level.
 
-(The building is rumoured to have 11 ghosts)
+(The building is rumored to have 11 ghosts)
 
 Arthur throws his daggers and kills the ghost. They bounce off the bathtub and right back into his hands.
 

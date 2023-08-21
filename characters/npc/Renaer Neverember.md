@@ -2,15 +2,15 @@
 aliases: [Renaer]
 ---
 
-friend of [[Floon]].
-son of [[Dagult Neverember]]
+Friend of [[Floon]].
+Son of [[Dagult Neverember]]
 
-unconfirmed: he Controls the Police
-unconfirmed: he is a one hit wonder
-confirmed: can't handle liqure
-unconfirmed: MIA by [[Isona]] (lost and found???)
-last seen alive by [[Bonni]] in the [[Yawning Portal]]
+Unconfirmed: he Controls the Police
+Unconfirmed: he is a one hit wonder
+Confirmed: can't handle liqure
+Unconfirmed: MIA by [[Isona]] (lost and found???)
+Last seen alive by [[Bonni]] in the [[Yawning Portal]]
 
 ## renaer's house
 
-he has a luxurius house with a butler
+He has a luxurious house with a butler

@@ -1,4 +1,4 @@
 ---
 aliases: [eye people]
 ---
-the eye people
+The eye people
