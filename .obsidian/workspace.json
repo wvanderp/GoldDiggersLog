@@ -1,88 +1,35 @@
 {
   "main": {
-    "id": "93b8b5c2c8ab1600",
+    "id": "2849b21785fd13dd",
     "type": "split",
     "children": [
       {
-        "id": "40d27318ae6deb93",
+        "id": "ec94d8e82c1b0ed9",
         "type": "tabs",
         "children": [
           {
-            "id": "80f408f6b3d5e091",
+            "id": "c1413aae087a8187",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4817b9642f8fb037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5b153fc4de8b3bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/player/Traris.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e9ed4ef85bfffe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/npc/female guard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa40ea2dcae5c505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/npc/the dynamic three/Squiddly.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "07d4f4a98a5ca316",
+    "id": "55e85fe8f02b6e06",
     "type": "split",
     "children": [
       {
-        "id": "c5995f0bb8955493",
+        "id": "07518d81464b8fd9",
         "type": "tabs",
         "children": [
           {
-            "id": "b6ececbf5796e346",
+            "id": "d4f13322df12c0bf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,12 +39,12 @@
             }
           },
           {
-            "id": "6bac75319e2da02d",
+            "id": "ec6b66b6c2dd8457",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "guard",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,15 +54,7 @@
             }
           },
           {
-            "id": "a19b86748aff74f0",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "5142c4b27bdd2afd",
+            "id": "d2b8ebdee3e0070a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -129,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "b13fdb5609d6c85b",
+    "id": "3d79bdecbbc53a26",
     "type": "split",
     "children": [
       {
-        "id": "0aab1834274ab13e",
+        "id": "bbc7ac99beb9b24a",
         "type": "tabs",
         "children": [
           {
-            "id": "f1a3a378a276af8c",
+            "id": "a26e6a91e2d9bf6e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -153,7 +92,7 @@
             }
           },
           {
-            "id": "33c3bdcd5c9029fd",
+            "id": "783798af76d86565",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -164,7 +103,7 @@
             }
           },
           {
-            "id": "98cd4ef03829b132",
+            "id": "29b3beffe074bbaa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -175,7 +114,7 @@
             }
           },
           {
-            "id": "f5a493095e06f407",
+            "id": "b4f0d0d60fc35bae",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -198,35 +137,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6ececbf5796e346",
-  "lastOpenFiles": [
-    "locations/Hobsens hub.md",
-    "locations/Come On Inn.md",
-    "clans/City watch.md",
-    "Blackstaff.md",
-    "images/maps/hagFight.jpg",
-    "characters/npc/famali estelmer.md",
-    "adminstration.md",
-    "locations/haunted house.md",
-    "clans/City Guard.md",
-    "locations/Old Xoblob Shop.md",
-    "sessions/Session 4.md",
-    "sessions/Session 2.md",
-    "sessions/Session 6.md",
-    "characters/player/Traris.md",
-    "characters/npc/female guard.md",
-    "characters/npc/Renaer Neverember.md",
-    "sessions/Session 3.md",
-    "characters/player/Galadriel.md",
-    "characters/npc/mind flayer.md",
-    "characters/npc/Nihiloor.md",
-    "characters/player/Isona.md",
-    "Untitled.canvas",
-    "sessions/session 1.md",
-    "sessions/Session 5.md",
-    "characters/player/Eur Dur.md",
-    "characters/player/Dan Sing.md",
-    "characters/npc/Yara.md",
-    "characters/npc/Volo.md"
-  ]
+  "active": "c1413aae087a8187",
+  "lastOpenFiles": []
 }
