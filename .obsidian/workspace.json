@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "3464154642704d63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/Session 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sessions/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sessions/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sessions/Session 4.md"
+              }
             }
           }
         ]
@@ -137,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1413aae087a8187",
+  "active": "3464154642704d63",
   "lastOpenFiles": [
+    "sessions/Session 3.md",
+    "sessions/Session 10.md",
     "characters/npc/Blackstaff.md"
   ]
 }

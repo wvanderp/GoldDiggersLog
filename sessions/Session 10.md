@@ -1,0 +1,1 @@
+we start at the vineyard watching for scarecrows. the scarecrows show up.
