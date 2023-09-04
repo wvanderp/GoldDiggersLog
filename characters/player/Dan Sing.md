@@ -6,3 +6,4 @@ Dan Sing, (26 M) Local [[Human]] [[Bard]]. Mostly found in the inns and pubs at 
 - tasha's hideous laughter
 
 Hates [[goblin|goblin's]]
+alagric to ginger or [[camabert]]

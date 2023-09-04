@@ -1,63 +1,187 @@
 {
   "main": {
-    "id": "2849b21785fd13dd",
+    "id": "93b8b5c2c8ab1600",
     "type": "split",
     "children": [
       {
-        "id": "ec94d8e82c1b0ed9",
+        "id": "40d27318ae6deb93",
         "type": "tabs",
         "children": [
           {
-            "id": "c1413aae087a8187",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3464154642704d63",
+            "id": "37309601ce825c77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 4.md",
+                "file": "characters/player/Galadriel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6a8da81b548d801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "174dcce515f98157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adminstration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c009a916de6445bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/npc/mind flayer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "222c1ac8c82c19db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/Session 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4419c3c0a4aa786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/npc/famali estelmer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d63a4b73ce03e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locations/farms/Stout Fellow Farm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "759d81fee6b3dcfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82549113e22f052a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/npc/Blackstaff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52aeceb2cf9937bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clans/Gray Hands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "955b3f5568afe14a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clans/Zhentarim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa40ea2dcae5c505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/npc/the dynamic three/Squiddly.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "55e85fe8f02b6e06",
+    "id": "07d4f4a98a5ca316",
     "type": "split",
     "children": [
       {
-        "id": "07518d81464b8fd9",
+        "id": "c5995f0bb8955493",
         "type": "tabs",
         "children": [
           {
-            "id": "d4f13322df12c0bf",
+            "id": "b6ececbf5796e346",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
           {
-            "id": "ec6b66b6c2dd8457",
+            "id": "6bac75319e2da02d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "art",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,10 +191,10 @@
             }
           },
           {
-            "id": "d2b8ebdee3e0070a",
+            "id": "a19b86748aff74f0",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "starred",
               "state": {}
             }
           }
@@ -81,20 +205,20 @@
     "width": 300
   },
   "right": {
-    "id": "3d79bdecbbc53a26",
+    "id": "b13fdb5609d6c85b",
     "type": "split",
     "children": [
       {
-        "id": "bbc7ac99beb9b24a",
+        "id": "0aab1834274ab13e",
         "type": "tabs",
         "children": [
           {
-            "id": "a26e6a91e2d9bf6e",
+            "id": "f1a3a378a276af8c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 4.md",
+                "file": "characters/npc/Blackstaff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +230,19 @@
             }
           },
           {
-            "id": "783798af76d86565",
+            "id": "33c3bdcd5c9029fd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 4.md",
+                "file": "characters/npc/Blackstaff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "29b3beffe074bbaa",
+            "id": "98cd4ef03829b132",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,12 +253,12 @@
             }
           },
           {
-            "id": "b4f0d0d60fc35bae",
+            "id": "f5a493095e06f407",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 4.md"
+                "file": "characters/npc/Blackstaff.md"
               }
             }
           }
@@ -142,8 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,10 +277,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3464154642704d63",
+  "active": "82549113e22f052a",
   "lastOpenFiles": [
-    "sessions/Session 3.md",
-    "sessions/Session 10.md",
-    "characters/npc/Blackstaff.md"
+    "clans/Gray Hands.md",
+    "characters/npc/Blackstaff.md",
+    "sessions/Session 6.md",
+    "characters/player/Arthur silverspeak.md",
+    "characters/player/Galadriel.md",
+    "snowbeedle ochard and meadery.md",
+    "characters/player/Dan Sing.md",
+    "sessions/Session 1.md",
+    "clans/Xanathar.md",
+    "clans/Zhentarim.md"
   ]
 }

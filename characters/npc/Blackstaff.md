@@ -7,6 +7,8 @@ Leader of the [[Gray Hands]]
 
 Might be lesbian (rejected two men)
 
+in good graces with the [[Harpers]]
+
 ## tower
 
 A boy named Oliver (8 M) will open the door and ask you what you would like to drink.
