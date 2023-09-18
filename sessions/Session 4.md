@@ -17,7 +17,7 @@ She sees a basement
 [[Dan Sing]] prepares a big entrance number
 After the lute music starts, every character makes a big entrance into the main tavern room.
 
-[[Galadriel]] makes a royal entrance. While [[Traris]] is more reserved. They both sit at the same table.
+[[Galadriel i sael|Galadriel]] makes a royal entrance. While [[Traris]] is more reserved. They both sit at the same table.
 
 [[Isona]] walks out and picks a different table
 
@@ -50,7 +50,7 @@ At this moment, we found out that we were not welcome anymore at [[Renaer Nevere
 > You are not staying at my place
 > \- [[Renaer Neverember]]
 
-[[Galadriel]] felt very invited and entitled to [[Renaer Neverember|Renaer's house]]
+[[Galadriel i sael|Galadriel]] felt very invited and entitled to [[Renaer Neverember|Renaer's house]]
 But [[Renaer Neverember|Renaer]] had to insist on not letting us stay
 
 We decided to visit the house in the morning.
@@ -59,7 +59,7 @@ We decided to visit the house in the morning.
 Rescued kidnapped and dirty adventures
 
 In the tavern, many beers are drunk.
-But [[Galadriel]] could not keep her mind of the [[mind flayer]]
+But [[Galadriel i sael|Galadriel]] could not keep her mind of the [[mind flayer]]
 [[Eur Dur]] is always up for a trip to the library, so they go and research
 
 # To the library
@@ -72,7 +72,7 @@ And quickly finds what he is looking for
 He finds that the monster could be a [[mind flayer]]
 A monster that eats brainz
 
-[[Galadriel]] finds out that there are many newspaper clippings about murdered people missing their brains
+[[Galadriel i sael|Galadriel]] finds out that there are many newspaper clippings about murdered people missing their brains
 
 There seem to be more [[Zhentarim|snake people]] victims then [[Xanathar|eye people]]
 
@@ -91,11 +91,11 @@ Knocking down the door is also no option because it would cost 500 gold prices.
 
 So when we were unsuccessful in waking him, we went downstairs and waited for him.
 
-[[Isona]] and [[Galadriel]] follow [[Volo]]. But when [[Galadriel]] gets up to follow
-But when [[Galadriel]] gets up to follow [[Volo]], he sits back down again in protest.
-It's clear he does not like [[Galadriel]]
+[[Isona]] and [[Galadriel i sael|Galadriel]] follow [[Volo]]. But when [[Galadriel i sael|Galadriel]] gets up to follow
+But when [[Galadriel i sael|Galadriel]] gets up to follow [[Volo]], he sits back down again in protest.
+It's clear he does not like [[Galadriel i sael|Galadriel]]
 
-After some yelling, [[volo]] takes floon with him. But leafs [[Galadriel]] behind
+After some yelling, [[volo]] takes floon with him. But leafs [[Galadriel i sael|Galadriel]] behind
 
 # Two tails
 
@@ -119,16 +119,16 @@ And when he passes out in his chambers, she says
 
 Then the party:
 
-[[Galadriel]] goes and meets a friend
+[[Galadriel i sael|Galadriel]] goes and meets a friend
 
 When the party reaches [[Volo|volo's]] house, a storm is brewing in the air.
 A ghostly sprite is seen behind the window.
 
 [[Eur Dur]] burst through the door and rolled into the building
 
-[[Galadriel]] picks up a doll. A ghost comes out, and it attacks [[Galadriel]]
+[[Galadriel i sael|Galadriel]] picks up a doll. A ghost comes out, and it attacks [[Galadriel i sael|Galadriel]]
 
-[[Galadriel]] gets hit for 1hp and loses 1 max hit point
+[[Galadriel i sael|Galadriel]] gets hit for 1hp and loses 1 max hit point
 
 [[Dan Sing]] looks at the bar, and in the dust, gets written
 

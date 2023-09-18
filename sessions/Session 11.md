@@ -1,1 +1,1 @@
-![[Pasted image 20230904194607.png|400]]
+![[harperLogo.png|400]]

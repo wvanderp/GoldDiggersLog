@@ -5,11 +5,11 @@
 [[Dan Sing]]
 Some guys
 [[Eur Dur]]
-[[Galadriel]]
+[[Galadriel i sael|Galadriel]]
 
 [[Yara|a female half-orc]] is fighting with a human. At some point, the half-orc knocks out the human, and four of his friends take over the fight. The half-orc, who seemed to be winning, is now losing the fight. The owner of the tavern commands everybody out. The half-orc falls unconscious.
 
-During the fight, [[Traris]] and [[Galadriel]] stay at the table, enjoying a delicious glass of wine. [[Eur Dur|eur]] and [[Isona]] "try" to jump into the action. [[Isona]] gets one and grapples him. While [[Eur Dur]] fails at jumping from a table and gets some points in emotional damage.
+During the fight, [[Traris]] and [[Galadriel i sael|Galadriel]] stay at the table, enjoying a delicious glass of wine. [[Eur Dur|eur]] and [[Isona]] "try" to jump into the action. [[Isona]] gets one and grapples him. While [[Eur Dur]] fails at jumping from a table and gets some points in emotional damage.
 [[Dan Sing]], who was watching from the first floor while playing a "fighting" song
 
 The half-orc is part of the [[Zhentarim]]. The humans were from the [[Xanathar]].
@@ -24,14 +24,14 @@ The elves join the fight for the first time by drawing an arrow and delivering a
 
 [[Isona]] also decides to join the fight by fleeing
 
-The bats launch towards the bar with [[Traris]] and [[Galadriel]] behind it. Galadriel jumps up from behind the bar and fires an arrow that sends one of the bat creatures to death.
+The bats launch towards the bar with [[Traris]] and [[Galadriel i sael|Galadriel]] behind it. Galadriel jumps up from behind the bar and fires an arrow that sends one of the bat creatures to death.
 
 [[Eur Dur]] throws a hand-axe, and it was very inefficient
-[[Galadriel]] sends a flaming arrow, and it was very effective
+[[Galadriel i sael|Galadriel]] sends a flaming arrow, and it was very effective
 
 [[Isona]] runs back into the bar
 
-[[Traris]] was is inspired by [[Galadriel]] cool move and fires a flaming arrow of its own.
+[[Traris]] was is inspired by [[Galadriel i sael|Galadriel]] cool move and fires a flaming arrow of its own.
 
 [[Dan Sing]] tries to save his bard friend but misses
 
@@ -39,7 +39,7 @@ Then the barkeep draws his mighty sword and slashes the troll. And it dies falli
 
 [[Eur Dur]] is "inspired" by the display and throws his second hand-axe... the hand-axe misses
 
-[[Galadriel]] destroys the bat on the strings with a critical role
+[[Galadriel i sael|Galadriel]] destroys the bat on the strings with a critical role
 
 [[Isona]] tries to slash with her short sword and kills the last bat
 
@@ -47,7 +47,7 @@ Then the barkeep draws his mighty sword and slashes the troll. And it dies falli
 
 After the fight, the party gathers their arrows and axes. Eur finds only one.
 
-Then a man walks up to the group. "Be they adventurers?" he asks. And we say 'yeah'. [[Galadriel]] buys us all drinks, and we sit down at a table
+Then a man walks up to the group. "Be they adventurers?" he asks. And we say 'yeah'. [[Galadriel i sael|Galadriel]] buys us all drinks, and we sit down at a table
 
 [[Volo]] asks us to look for his friend [[Floon]. He was last seen drunk in the [[Skewered Dragon]] in the dock ward.
 
@@ -60,17 +60,17 @@ What does [[Floon]] look like?
 
 After not too long of deliberation and consulting with [[Bonni]]. The group accepts the offer of [[Volo]] with the knowledge we might not get our promised 100 gold.
 
-For [[Galadriel]], the group's noble, the first logical step is to hire some children to find him.
+For [[Galadriel i sael|Galadriel]], the group's noble, the first logical step is to hire some children to find him.
 
 After grilling [[Yara]] for some information and getting rejected, we finally leave the [[Yawning Portal]]
 
 # To the [[Skewered Dragon]]
 
 We make our way to the [[Skewered Dragon]]. Complete with lute music
-We also take a detour to get some not-so-fancy clothes for [[Galadriel]], who is afraid to stand out
+We also take a detour to get some not-so-fancy clothes for [[Galadriel i sael|Galadriel]], who is afraid to stand out
 
 While walking, we come across a street filled with bodies. All of them have eyes on their forehead.
-We keep walking in a bad neighbourhood.
+We keep walking in a bad neighborhood.
 
 # In the [[Skewered Dragon]]
 
@@ -78,7 +78,7 @@ We keep walking in a bad neighbourhood.
 
 [[Floon]] was here drinking with [[Renaer Neverember]], and they left together
 
-[[Renaer Neverember]] is the son of the old king of waterdeep
+[[Renaer Neverember]] is the son of the old king of Waterdeep
 
 Some other people also followed them out. Those people are known to frequent a warehouse with a snake—the sign of the [[Zhentarim]].
 

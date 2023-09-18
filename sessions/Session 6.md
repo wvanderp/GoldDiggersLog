@@ -10,13 +10,13 @@ We go to a fancy bookstore.
 
 We went to the black staff tower.
 
-[[galadriel]] tries to hit on the [[Blackstaff]] and fails
+[[Galadriel i sael|Galadriel]] tries to hit on the [[Blackstaff]] and fails
 
 Went to a guy in the mountain
 
 [[Traris]] gets approached by a cat and gets asked to join a druid cult
 
-The cat likes [[Arthur silverspeak|Arthur]] more then [[Dan Sing]]
+The cat likes [[Arthur Silverspeak|Arthur]] more then [[Dan Sing]]
 
 On the mountain, we meet a monk called Halam
 The guy has weird vibes

@@ -4,119 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40d27318ae6deb93",
+        "id": "44c75c425d724b64",
         "type": "tabs",
         "children": [
           {
-            "id": "37309601ce825c77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/player/Galadriel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6a8da81b548d801",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "174dcce515f98157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adminstration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c009a916de6445bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/npc/mind flayer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "222c1ac8c82c19db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4419c3c0a4aa786",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/npc/famali estelmer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d63a4b73ce03e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/farms/Stout Fellow Farm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "759d81fee6b3dcfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82549113e22f052a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/npc/Blackstaff.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52aeceb2cf9937bd",
+            "id": "d8aed1aba67b40bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,31 +20,55 @@
             }
           },
           {
-            "id": "955b3f5568afe14a",
+            "id": "fe127860c2809439",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clans/Zhentarim.md",
+                "file": "sessions/Session 7.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aa40ea2dcae5c505",
+            "id": "4ac1f324f6dbf928",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/npc/the dynamic three/Squiddly.md",
+                "file": "sessions/Session 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28d566020d4bd990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locations/farms/Stoutfellow Farm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a2f5e0e8429aa8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/npc/mind flayer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "art",
+                "query": "waterdeep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,6 +111,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8725f6de3a69f45a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -218,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/npc/Blackstaff.md",
+                "file": "sessions/Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/npc/Blackstaff.md",
+                "file": "sessions/Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/npc/Blackstaff.md"
+                "file": "sessions/Session 7.md"
               }
             }
           }
@@ -277,17 +201,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82549113e22f052a",
+  "active": "4ac1f324f6dbf928",
   "lastOpenFiles": [
+    "characters/player/Arthur Silverspeak.md",
+    "images/memes/Pasted image 20221115225659.png",
+    "images/memes/ezgif.com-gif-maker.gif",
+    "sessions/Session 10.md",
+    "sessions/Session 7.md",
+    "scared crows.md",
+    "images/fromDM/scarecrowImage.png",
+    "sessions/Session 11.md",
+    "case files",
     "clans/Gray Hands.md",
-    "characters/npc/Blackstaff.md",
-    "sessions/Session 6.md",
-    "characters/player/Arthur silverspeak.md",
-    "characters/player/Galadriel.md",
-    "snowbeedle ochard and meadery.md",
-    "characters/player/Dan Sing.md",
+    "objects/books/Counting to ten for orcs.md",
+    "objects/books/Volo's Guide to Monsters.md",
+    "locations/farms/Stoutfellow Farm.md",
+    "locations/farms/Amendsfarm.md",
+    "locations/farms/Snobeedle Orchard & Meadery.md",
+    "images/fromDM/harperLogo.png",
+    "characters/player/Eur Dur.md",
+    "characters/player/Traris.md",
+    "characters/npc/mind flayer.md",
     "sessions/Session 1.md",
+    "sessions/Session 4.md",
+    "characters/player/Galadriel i sael.md",
+    "characters/npc/Lady Elanora.md",
+    "locations/Come On Inn.md",
     "clans/Xanathar.md",
-    "clans/Zhentarim.md"
+    "characters/npc/the dynamic three/Squiddly.md",
+    "clans/Zhentarim.md",
+    "sessions/Session 3.md",
+    "characters/npc/Blackstaff.md",
+    "sessions/Session 6.md"
   ]
 }

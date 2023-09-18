@@ -4,7 +4,7 @@ We are starting to go up the stairs.
 
 [[Eur Dur]] kicks open the door
 [[Traris]] looks inside
-[[Galadriel]] casts dancing lights
+[[Galadriel i sael|Galadriel]] casts dancing lights
 
 Somebody stealthy strolls up to the house.
 He looks for his sister but does not seem to see her
@@ -24,7 +24,7 @@ We find a man of average stature.
 He questions who we are.
 We question who he is.
 
-He is [[Arthur silverspeak]]
+He is [[Arthur Silverspeak]]
 Searching for his sister [[Isona]]
 He last saw her a few months ago in their village
 
@@ -34,7 +34,7 @@ Is he an Intel agent?
 Then [[Jenks|a boy]] runs out of the room next door and hides behind [[Eur Dur]].
 He has a light-up wand and an owlbear plush.
 
-[[Arthur silverspeak|Arthur]] make an insight check into [[Traris]]. HE SPOKE THE TRUTH
+[[Arthur Silverspeak|Arthur]] make an insight check into [[Traris]]. HE SPOKE THE TRUTH
 
 *roll for initiative*
 
@@ -42,36 +42,36 @@ Ghost-like creatures form from out of the ground.
 
 [[Traris]] shoots an arrow. But it does not ring true like he knows it would
 
-[[Galadriel]] asks [[Jenks|the boy]] if he took anything
+[[Galadriel i sael|Galadriel]] asks [[Jenks|the boy]] if he took anything
 
                I didn't take nothing.
 
-[[Galadriel]] does not believe him. But he seems to speak the truth.
+[[Galadriel i sael|Galadriel]] does not believe him. But he seems to speak the truth.
 
-[[Arthur silverspeak|Arthur]] takes out a scimitar and hits one ghost, and disengages
+[[Arthur Silverspeak|Arthur]] takes out a scimitar and hits one ghost, and disengages
 
 [[Dan Sing]] shoots an arrow. His bow makes a musical not when he releases
 
 Then the ghost moves through [[Eur Dur]]. It does not feel good. He makes a constitution check and resists the feeling.
 
-[[Galadriel]] hits one of the monsters
+[[Galadriel i sael|Galadriel]] hits one of the monsters
 
 [[Eur Dur]] hits the big ghost with his axe. It evaporates, killing it.
 
 [[Jenks|the kid]] cowers away behind [[Eur Dur]]
 
-[[Galadriel]] and [[Traris]] hit the remaining ghosts
+[[Galadriel i sael|Galadriel]] and [[Traris]] hit the remaining ghosts
 
 We derive that the boy is called [[Jenks]] he clutches his familiar [[hobbsen]]
 
-[[Arthur silverspeak|Arthur]] asks [[Jenks]] how to defeat the ghosts
+[[Arthur Silverspeak|Arthur]] asks [[Jenks]] how to defeat the ghosts
 
                Just like those ones
                - Jenks
 
 When opening another room, more ghosts appear.
 
-[[Arthur silverspeak|Arthur]] hits a monster
+[[Arthur Silverspeak|Arthur]] hits a monster
 
 [[Dan Sing]] does a two-handed backstab.
 Natural 20
@@ -86,20 +86,20 @@ Also in the house are [[Ned]] and [[Squiddly]]
 
 They were playing in the tavern with marbles and listening to [[Lif]] about the ghosts
 
-Then we took the time to roast [[Arthur silverspeak|Arthur]] about his past
+Then we took the time to roast [[Arthur Silverspeak|Arthur]] about his past
 He and [[Isona]] are not on the best terms
 That is all the time we have for today. We conclude we don't like him yet.
 
 The roast was cut short because the door to the hallway revealed another ghost.
 
-[[Galadriel]] goes the other way and looks through a keyhole of a different door.
+[[Galadriel i sael|Galadriel]] goes the other way and looks through a keyhole of a different door.
 She sees the wall.
 
 [[Dan Sing]] and [[Traris]] shoot arrows at the ghost
 
 [[Eur Dur]] throws an axe but misses
 
-[[Galadriel]] shoots an arrow
+[[Galadriel i sael|Galadriel]] shoots an arrow
 
 [[Dan Sing]] shoots an arrow and kills it by saying
 
@@ -107,7 +107,7 @@ She sees the wall.
                (Because it is a ghost, and they don't have spines)
                - Dan sing
 
-Then [[Arthur silverspeak|Arthur]] insults the party's taste in houses.
+Then [[Arthur Silverspeak|Arthur]] insults the party's taste in houses.
 [[Dan Sing]] tells him off, `How can you say that when there are children still missing`.
 
 [[Eur Dur]] tries to intimidate a door. It was not scared
@@ -120,9 +120,9 @@ We climb up to the astrology tower we find [[Ned]] up there
 
 [[Ned]] cannot talk, but she knows csl (common sign language)
 
-While [[Arthur silverspeak|Arthur]] is interested in a hand holding an organ
+While [[Arthur Silverspeak|Arthur]] is interested in a hand holding an organ
 
-[[Galadriel]] finds [[Counting to ten for orcs]]. She also finds another ghost.
+[[Galadriel i sael|Galadriel]] finds [[Counting to ten for orcs]]. She also finds another ghost.
 
 [[Traris]] shoots an arrow at the ghost
 
@@ -149,9 +149,9 @@ Brewing the soup is a [[hag]]
 
 ![[Pasted image 20221213221738.png]]
 
-[[Traris]] and [[Galadriel]] grap [[Jenks]] and [[Ned]]
+[[Traris]] and [[Galadriel i sael|Galadriel]] grap [[Jenks]] and [[Ned]]
 
-[[Eur Dur]] tries to throw [[Arthur silverspeak|Arthur]] into the room
+[[Eur Dur]] tries to throw [[Arthur Silverspeak|Arthur]] into the room
 But instead, he throws out his back
 
 The ghost moves out into the hallway.

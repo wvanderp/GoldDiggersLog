@@ -17,7 +17,7 @@ Initiative
 [[Eur Dur]] would like to wack a bird
 {{D20|18}} {{D8|7}}
 
-[[Galadriel]] would like plausible deniability and moves further away.
+[[Galadriel i sael|Galadriel]] would like plausible deniability and moves further away.
 
 [[Dan Sing]] moves into the cord yard and watches the background
 
@@ -29,7 +29,7 @@ Initiative
 One of the birds ran out. I tried to grapple it. But failed, and it was stared down.
 "It is very scared."
 
-[[Galadriel]] tries to investigate it. [[Eur Dur]] also tries to find out what happened. But both fail
+[[Galadriel i sael|Galadriel]] tries to investigate it. [[Eur Dur]] also tries to find out what happened. But both fail
 
 [[Dan Sing]] find another bird in the doorway, and with a song, it says:
 "[[Xanathar]] sends his regards."
@@ -48,7 +48,7 @@ Some of the bodies have snake tattoos. Most have no tattoos. One has an eye tatt
 
 [[Eur Dur]] opens the broom closet and finds [[Renaer Neverember]]
 
-[[Galadriel]] makes a royal entrance
+[[Galadriel i sael|Galadriel]] makes a royal entrance
 
 When [[Renaer Neverember|Renaer]] is asked about [[Floon]] reveals the story of the night
 
@@ -57,7 +57,7 @@ Drinks... home??? Jumped... lost Floon...
 Then the [[City Watch|city guard]] enter the premises.
 
 [[Isona]] tries to steal something while the [[City Watch|city guard]] is entering
-[[Galadriel]] tries to stop her but fails
+[[Galadriel i sael|Galadriel]] tries to stop her but fails
 
 The [[City Watch|city Guard's]] [[Captain Staget]] talks to [[Renaer Neverember]] and he explains the situation
 
@@ -68,7 +68,7 @@ The [[Captain Staget|Captain]] lets us be
 
 One of the [[female guard|female guards]] notices [[Traris]]. She looks like she knows [[Traris]]. Some members of the group notice.
 
-[[Galadriel]] ask if there's anybody upstairs
+[[Galadriel i sael|Galadriel]] ask if there's anybody upstairs
 NO
 
 [[Dan Sing]] asks [[Traris]] if he knows the girl
@@ -82,7 +82,7 @@ After looking outside, we find a clue leading us to the [[sewers]]
 
 A long night of investigating, reading and snooping at the house of [[Renaer Neverember]] ends in [[Isona]] picking a lock of the sleeping chambers of the [[Renaer Neverember|Renaer]] and getting caught by his butler.
 
-After this night of hijinks, [[Isona]] and [[Galadriel]] try to gaslight [[Renaer Neverember|Renaer]] into firing one of the maids. This annoyed [[Renaer Neverember|Renaer]]
+After this night of hijinks, [[Isona]] and [[Galadriel i sael|Galadriel]] try to gaslight [[Renaer Neverember|Renaer]] into firing one of the maids. This annoyed [[Renaer Neverember|Renaer]]
 
 Although we used much of [[Renaer Neverember|Renaer]] goodwill, he will still help us while investigating the sewers
 

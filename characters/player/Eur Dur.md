@@ -3,7 +3,6 @@ Eur Dur (55 M), [[mountain dwarf]] [[fighter]], a dwarf driven by knowledge and 
 ## backstory
 
 Race: mountain dwarf
-
 Class: fighter
 
 ### backstory
@@ -70,4 +69,4 @@ I'm wearing chainmail armor, but the only reason you know is by the sound I make
 
 On one side of my backpack is a special strap for my battle axe; on the other, there are some throwables like smaller axes, knives, or a book I dislike.
 
-Although my beard is not that well maintained, I do try because I noticed that people react better when I look propper.
+Although my beard is not that well maintained, I do try because I noticed that people react better when I look proper.

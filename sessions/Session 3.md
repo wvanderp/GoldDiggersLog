@@ -104,7 +104,7 @@ Roll initiative
 - Big [[mind flayer|tentacle guy]]
 - [[Eur Dur]]
 - [[Isona]]
-- [[Galadriel]]
+- [[Galadriel i sael|Galadriel]]
 - The half-orc
 - [[Traris]]
 
@@ -119,7 +119,7 @@ And the [[mind flayer|tentacle guy]] portals away
 - Big [[mind flayer|tentacle guy]]
 - [[Eur Dur]]
 - [[Isona]]
-- [[Galadriel]]
+- [[Galadriel i sael|Galadriel]]
 - The half-orc
 - [[Traris]]
 
