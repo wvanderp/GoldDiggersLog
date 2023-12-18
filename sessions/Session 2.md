@@ -1,3 +1,7 @@
+---
+tags:
+  - session
+---
 # Zhentarim hideout
 
 Initiative

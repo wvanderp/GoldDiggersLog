@@ -1,3 +1,7 @@
+---
+tags:
+  - session
+---
 # [[Yawning Portal]]
 
 **roll initiative**
@@ -7,7 +11,7 @@ Some guys
 [[Eur Dur]]
 [[Galadriel i sael|Galadriel]]
 
-[[Yara|a female half-orc]] is fighting with a human. At some point, the half-orc knocks out the human, and four of his friends take over the fight. The half-orc, who seemed to be winning, is now losing the fight. The owner of the tavern commands everybody out. The half-orc falls unconscious.
+[[Yara stonefist|a female half-orc]] is fighting with a human. At some point, the half-orc knocks out the human, and four of his friends take over the fight. The half-orc, who seemed to be winning, is now losing the fight. The owner of the tavern commands everybody out. The half-orc falls unconscious.
 
 During the fight, [[Traris]] and [[Galadriel i sael|Galadriel]] stay at the table, enjoying a delicious glass of wine. [[Eur Dur|eur]] and [[Isona]] "try" to jump into the action. [[Isona]] gets one and grapples him. While [[Eur Dur]] fails at jumping from a table and gets some points in emotional damage.
 [[Dan Sing]], who was watching from the first floor while playing a "fighting" song
@@ -49,7 +53,7 @@ After the fight, the party gathers their arrows and axes. Eur finds only one.
 
 Then a man walks up to the group. "Be they adventurers?" he asks. And we say 'yeah'. [[Galadriel i sael|Galadriel]] buys us all drinks, and we sit down at a table
 
-[[Volo]] asks us to look for his friend [[Floon]. He was last seen drunk in the [[Skewered Dragon]] in the dock ward.
+[[Volo]] asks us to look for his friend [[Floon]]. He was last seen drunk in the [[Skewered Dragon]] in the dock ward.
 
 What does [[Floon]] look like?
 
@@ -62,7 +66,7 @@ After not too long of deliberation and consulting with [[Bonni]]. The group acce
 
 For [[Galadriel i sael|Galadriel]], the group's noble, the first logical step is to hire some children to find him.
 
-After grilling [[Yara]] for some information and getting rejected, we finally leave the [[Yawning Portal]]
+After grilling [[Yara stonefist]] for some information and getting rejected, we finally leave the [[Yawning Portal]]
 
 # To the [[Skewered Dragon]]
 

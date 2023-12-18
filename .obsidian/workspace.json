@@ -8,48 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8aed1aba67b40bb",
+            "id": "cc256672239cd405",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clans/Gray Hands.md",
+                "file": "characters/player/Arthur Silverspeak.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fe127860c2809439",
+            "id": "85ac6dc8e6e1c512",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 7.md",
+                "file": "characters/npc/Yara stonefist.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "079e0fc5df4e7eda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/npc/Floon.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ac1f324f6dbf928",
+            "id": "da02fe0700e1a46d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 7.md",
+                "file": "characters/npc/remallia haventree.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "28d566020d4bd990",
+            "id": "60f892500d52a068",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locations/farms/Stoutfellow Farm.md",
+                "file": "characters/player/Dan Sing.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "waterdeep",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 7.md",
+                "file": "characters/player/Dan Sing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 7.md",
+                "file": "characters/player/Dan Sing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,11 +194,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 7.md"
+                "file": "characters/player/Dan Sing.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -201,37 +214,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ac1f324f6dbf928",
+  "active": "60f892500d52a068",
   "lastOpenFiles": [
+    "locations/inns/Grinning lion.md",
+    "Ulbrinter villa.md",
+    "characters/npc/remallia haventree.md",
+    "Pasted image 20231218213000.png",
+    "characters/npc/Floon.md",
+    "sessions/Session 7.md",
+    "sessions/Session 6.md",
+    "sessions/Session 3.md",
+    "sessions/Session 4.md",
+    "sessions/Session  14.md",
+    "sessions/Session 1.md",
+    "sessions/Session 2.md",
+    "sessions/Session 5.md",
+    "sessions/Session 12.md",
+    "sessions/Session 10.md",
+    "sessions/Session 11.md",
+    "characters/npc/Renaer Neverember.md",
     "characters/player/Arthur Silverspeak.md",
+    "characters/npc/Yara stonefist.md",
+    "clans/Zhentarim.md",
+    "Pasted image 20231218211257.png",
+    "clans/Xanathar.md",
+    "locations/inns/Yawning Portal.md",
+    "characters/npc/Blackstaff.md",
+    "Harpers.md",
+    "Arthur junior.md",
+    "characters/player/Isona.md",
+    "characters/npc/the dynamic three/Jenks.md",
+    "locations/inns",
+    "images/maps/hagFight.jpg",
+    "Pasted image 20231026204133.png",
+    "Pasted image 20231026204115.png",
     "images/memes/Pasted image 20221115225659.png",
     "images/memes/ezgif.com-gif-maker.gif",
-    "sessions/Session 10.md",
-    "sessions/Session 7.md",
-    "scared crows.md",
     "images/fromDM/scarecrowImage.png",
-    "sessions/Session 11.md",
     "case files",
-    "clans/Gray Hands.md",
-    "objects/books/Counting to ten for orcs.md",
-    "objects/books/Volo's Guide to Monsters.md",
-    "locations/farms/Stoutfellow Farm.md",
-    "locations/farms/Amendsfarm.md",
-    "locations/farms/Snobeedle Orchard & Meadery.md",
-    "images/fromDM/harperLogo.png",
-    "characters/player/Eur Dur.md",
-    "characters/player/Traris.md",
-    "characters/npc/mind flayer.md",
-    "sessions/Session 1.md",
-    "sessions/Session 4.md",
-    "characters/player/Galadriel i sael.md",
-    "characters/npc/Lady Elanora.md",
-    "locations/Come On Inn.md",
-    "clans/Xanathar.md",
-    "characters/npc/the dynamic three/Squiddly.md",
-    "clans/Zhentarim.md",
-    "sessions/Session 3.md",
-    "characters/npc/Blackstaff.md",
-    "sessions/Session 6.md"
+    "images/fromDM/harperLogo.png"
   ]
 }

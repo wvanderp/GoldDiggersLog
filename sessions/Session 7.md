@@ -1,3 +1,7 @@
+---
+tags:
+  - session
+---
 [[Arthur Silverspeak|Arthur]] receives a secret note on a piece of paper
 
 [[Arthur Silverspeak|Arthur]] goes on a "long evening walk" and [[Galadriel i sael|Galadriel]] joins him.
@@ -35,7 +39,7 @@ he brings him to the lady of the house [[Lady Elanora]], leader of the [[Emerald
 
 [[Traris]] joins the [[Emerald enclave]] and gest tasked to take care of some [[scarecrow]] 
 
-for joining, he receives a charm of restoration
+for joining, [[Traris]] receives a charm of restoration
 it contains six charges
 the greater restoration takes four charges
 the lesser restoration takes two charges

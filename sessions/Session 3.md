@@ -1,3 +1,7 @@
+---
+tags:
+  - session
+---
 We left off in the [[sewers]] after killing the [[gazer]]
 
 [[Dan Sing]] stole the head of the [[gazer]]

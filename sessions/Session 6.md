@@ -1,3 +1,7 @@
+---
+tags:
+  - session
+---
 We start the session in the boiler room with a [[hag]] preparing some teething soup
 
 ![[hagFight.jpg]]

@@ -1,4 +1,8 @@
-We are still at the [[Hobsens Hub|ghost house]] known as [[Volo|Volo's]] payment.
+---
+tags:
+  - session
+---
+We are still at the [[Hobsens hub|ghost house]] known as [[Volo|Volo's]] payment.
 
 We are starting to go up the stairs.
 

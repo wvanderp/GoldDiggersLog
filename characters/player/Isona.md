@@ -5,6 +5,7 @@ Potential last name: `silverspeak`
 
 Gets possessed by a [[mind flayer]] [[Nihiloor]]
 
-Killed [[Renaer Neverember|Renaer]] in the name of [[Nihiloor]]
+Killed [[Renaer Neverember|Renaer]] in the name of [[Nihiloor]] ([[Renaer Neverember|Renaer]] showed up again so no)
+[[Renaer Neverember|Renaer]] says that Isona skipped town after a act that cannot be followed
 
 A thief rumored that she killed her self
