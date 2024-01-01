@@ -18,4 +18,3 @@ Weapons:
 
 - long bow
 - Scimitars
--

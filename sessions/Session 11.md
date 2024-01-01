@@ -43,13 +43,13 @@ as the fighting dies down [[Arthur Silverspeak|Arthur]] tries to slip out. but h
 
 the harp people says "Arthur don't go anywhere. we are here to help you"
 
-[[Arthur Silverspeak|Arthur]] meets with [[youkijama watdan]]. he is part of the [[Harpers]]
+[[Arthur Silverspeak|Arthur]] meets with miss [[youkijama watdan]]. he is part of the [[Harpers]]
 
-[[arthur]] gets invited to join the [[Harpers]] guild and meet the big boss
+[[Arthur Silverspeak|Arthur]] gets invited to join the [[Harpers]] guild and meet the big boss
 
-there are some rumurs of [[naniatha lhuritstar]] beeing a double agent.
+there are some rumours of [[naniatha lhuritstar]] being a double agent.
 
-the [[Harpers]] fake [[Arthur Silverspeak|Arthurs]] death. because he accepts the secret mision to follow the double agent and joint the harpers
+the [[Harpers]] fake [[Arthur Silverspeak|Arthurs]] death. because he accepts the secret mission to follow the double agent and joint the harpers
 
 is this the last we will see from [[Arthur Silverspeak|Arthur]]?
 
@@ -57,11 +57,11 @@ is this the last we will see from [[Arthur Silverspeak|Arthur]]?
 
 we return to [[Snobeedle Orchard and Meadery]] were the finest wine is 15 GP a bottle and there is no 1 GP wine. a mult is 8 cp.
 
-we invite lady snobeatle to make a business deal. we persudae her to bing a samlple of a fine bottle of wine.
+we invite lady snobeatle to make a business deal. we persuade her to bing a sample of a fine bottle of wine.
 
 [[Dan Sing]] goes up to the bar "drunk" and gets served water
 
-[[Eur Dur]] tasts the wine it tast like:
+[[Eur Dur]] tastes the wine it taste like:
 
 ```
 ginger with eurthy notes
@@ -69,7 +69,7 @@ the after tast is light on the toung
 the grape is camabar souvogion
 ```
 
-[[Dan Sing]] gets the ationtion of the bouncer and throws up int he bathroom because of a sniff of [[camabert]].
+[[Dan Sing]] gets the attention of the bouncer and throws up into he bathroom because of a sniff of [[camabert]].
 
 then a other wine is served.
 ```

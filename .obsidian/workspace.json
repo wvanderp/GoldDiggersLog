@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "44c75c425d724b64",
+        "id": "a4c5f4d7fc1fd8f1",
         "type": "tabs",
         "children": [
           {
-            "id": "cc256672239cd405",
+            "id": "3a4d181e10f85145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/player/Arthur Silverspeak.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85ac6dc8e6e1c512",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20231218213000.png"
-              }
-            }
-          },
-          {
-            "id": "0e5dd8a148ec7b6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/enemies/scared crows.md",
+                "file": "sessions/Session 12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -71,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "volo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +66,7 @@
             }
           },
           {
-            "id": "8725f6de3a69f45a",
+            "id": "5482ff2b92597fb0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -116,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/enemies/scared crows.md",
+                "file": "sessions/Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/enemies/scared crows.md",
+                "file": "sessions/Session 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,16 +133,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/enemies/scared crows.md"
+                "file": "sessions/Session 12.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,44 +153,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6ececbf5796e346",
+  "active": "3a4d181e10f85145",
   "lastOpenFiles": [
-    "characters/enemies",
-    "characters/Arthur junior.md",
-    "characters/enemies/scared crows.md",
-    "adminstration.md",
-    "Emerald enclave.md",
-    "images/Pasted image 20231026204115.png",
+    "characters/npc/the dynamic three/Squiddly.md",
+    "sessions/Session 12.md",
+    "locations/inns/Hobsens hub.md",
+    "images/generations/Pasted image 20221213215316.png",
+    "images/generations/Pasted image 20221213221738.png",
     "images/Pasted image 20231026204133.png",
+    "images/Pasted image 20231026204115.png",
     "images/Pasted image 20231218211257.png",
     "images/Pasted image 20231218213000.png",
-    "characters/npc/Ulbrinter villa.md",
-    "clans/Harpers.md",
-    "sessions/Session 11.md",
-    "naniatha lhuritstar.md",
-    "characters/npc/Yara stonefist.md",
-    "characters/npc/Floon.md",
-    "characters/npc/remallia haventree.md",
-    "locations/farms/Snobeedle Orchard and Meadery.md",
-    "characters/player/Arthur Silverspeak.md",
+    "images/tumblr_n53yj4pPsu1qfhux7o1_500.webp",
+    "images/tumblr_e123ed0360e77dc866cad22b094c6912_143ffea7_500.webp",
+    "characters/player/Galadriel i sael.md",
+    "characters/player/Traris.md",
+    "characters/enemies/Scared crows.md",
     "locations/farms/Stoutfellow Farm.md",
-    "locations/farms/Amendsfarm.md",
-    "sessions/Session 7.md",
+    "sessions/Session 11.md",
     "sessions/Session 10.md",
-    "sessions/Session 2.md",
-    "characters/player/Dan Sing.md",
-    "locations/inns/Grinning lion.md",
-    "sessions/Session 6.md",
-    "sessions/Session 3.md",
-    "sessions/Session 4.md",
-    "sessions/Session  14.md",
+    "Untitled.canvas",
+    "sessions/Session 7.md",
     "sessions/Session 1.md",
+    "sessions/Session  14.md",
+    "objects/books/how wizards view the world.md",
+    "locations/inns/Yawning Portal.md",
+    "locations/inns/Skewered Dragon.md",
+    "locations/inns/spouting fish.md",
+    "locations/inns/Grinning lion.md",
+    "locations/inns/Come On Inn.md",
     "locations/inns",
-    "images/maps/hagFight.jpg",
-    "images/memes/Pasted image 20221115225659.png",
-    "images/memes/ezgif.com-gif-maker.gif",
+    "locations/farms/Snobeedle Orchard and Meadery.md",
+    "locations/farms/Amendsfarm.md",
+    "locations/farms",
     "images/fromDM/scarecrowImage.png",
-    "case files",
-    "images/fromDM/harperLogo.png"
+    "images/fromDM/harperLogo.png",
+    "images/fromDM",
+    "clans/Harpers.md",
+    "clans/Gray Hands.md",
+    "characters/player/Arthur Silverspeak.md",
+    "characters/npc/remallia haventree.md",
+    "characters/npc/family Estelmer.md",
+    "characters/npc/Yara stonefist.md",
+    "characters/enemies"
   ]
 }

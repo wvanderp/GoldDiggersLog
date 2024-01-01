@@ -2,7 +2,7 @@
 aliases: [ghost house,haunted house]
 ---
 
-A pub located in the [[north ward]]
+A pub located in the [[north ward]]. named after [[hobbsen]]
 
 A house gifted to the gold diggers by [[Volo]] as payment for saving [[Floon]].
 

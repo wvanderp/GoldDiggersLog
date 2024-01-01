@@ -8,3 +8,5 @@ is part of the [[Emerald enclave]]
 has a charm of restoration with 6 charges ([[Session 7#^charm]])
 
 
+
+
