@@ -7,7 +7,7 @@ It ran by [[Halfling|Haflings]]
 
 ## bar keep
 
-Has a cousin [[frodo]] in [[neverwinter]]
+Has a cousin [[Frodo]] in [[neverwinter]]
 And a wife. They run the inn together.
 They have 4 small children
 

@@ -1,3 +1,8 @@
+---
+Gender: Female
+---
+
+
 Might know [[Traris]]
 [[Traris]] didnt recognise her
 

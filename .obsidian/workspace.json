@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "a4c5f4d7fc1fd8f1",
+        "id": "414748c3b64bebcf",
         "type": "tabs",
         "children": [
           {
-            "id": "3a4d181e10f85145",
+            "id": "9ecf4913dc690262",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 12.md",
+                "file": "characters/Arthur junior.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1aef768f47f4eeeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locations/inns/Come On Inn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d8d462bd90cb890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locations/inns/Yawning Portal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5017d76dc714af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frodo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "volo",
+                "query": "durn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,14 +103,15 @@
             }
           },
           {
-            "id": "5482ff2b92597fb0",
+            "id": "8725f6de3a69f45a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 12.md",
+                "file": "locations/inns/Yawning Portal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 12.md",
+                "file": "locations/inns/Yawning Portal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,16 +171,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 12.md"
+                "file": "locations/inns/Yawning Portal.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,48 +191,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a4d181e10f85145",
+  "active": "2d8d462bd90cb890",
   "lastOpenFiles": [
-    "characters/npc/the dynamic three/Squiddly.md",
     "sessions/Session 12.md",
-    "locations/inns/Hobsens hub.md",
-    "images/generations/Pasted image 20221213215316.png",
-    "images/generations/Pasted image 20221213221738.png",
-    "images/Pasted image 20231026204133.png",
-    "images/Pasted image 20231026204115.png",
-    "images/Pasted image 20231218211257.png",
-    "images/Pasted image 20231218213000.png",
-    "images/tumblr_n53yj4pPsu1qfhux7o1_500.webp",
-    "images/tumblr_e123ed0360e77dc866cad22b094c6912_143ffea7_500.webp",
-    "characters/player/Galadriel i sael.md",
-    "characters/player/Traris.md",
-    "characters/enemies/Scared crows.md",
-    "locations/farms/Stoutfellow Farm.md",
     "sessions/Session 11.md",
     "sessions/Session 10.md",
-    "Untitled.canvas",
     "sessions/Session 7.md",
+    "characters/npc/Volo.md",
+    "characters/npc/Floon.md",
+    "characters/npc/Lady Elanora.md",
+    "sessions/Session 6.md",
+    "sessions/Session 5.md",
+    "sessions/Session 4.md",
+    "sessions/Session 3.md",
+    "sessions/Session 2.md",
     "sessions/Session 1.md",
-    "sessions/Session  14.md",
-    "objects/books/how wizards view the world.md",
-    "locations/inns/Yawning Portal.md",
-    "locations/inns/Skewered Dragon.md",
-    "locations/inns/spouting fish.md",
-    "locations/inns/Grinning lion.md",
+    "characters/npc/Nihiloor.md",
+    "interview for work force.md",
+    "characters/player/Dan Sing.md",
+    "characters/player/Melondor Wardragon.md",
+    "Frodo.md",
     "locations/inns/Come On Inn.md",
-    "locations/inns",
-    "locations/farms/Snobeedle Orchard and Meadery.md",
-    "locations/farms/Amendsfarm.md",
-    "locations/farms",
-    "images/fromDM/scarecrowImage.png",
-    "images/fromDM/harperLogo.png",
-    "images/fromDM",
-    "clans/Harpers.md",
-    "clans/Gray Hands.md",
+    "locations/inns/Spouting Fish.md",
+    "characters/Arthur junior.md",
+    "characters/player/Traris.md",
+    "characters/player/Isona Silverspeak.md",
+    "characters/player/Galadriel i sael.md",
+    "characters/player/Eur Dur.md",
     "characters/player/Arthur Silverspeak.md",
-    "characters/npc/remallia haventree.md",
-    "characters/npc/family Estelmer.md",
-    "characters/npc/Yara stonefist.md",
-    "characters/enemies"
+    "races",
+    "images/generations/Pasted image 20221213215316.png",
+    "images/generations/Pasted image 20221213221738.png",
+    "images/tumblr_n53yj4pPsu1qfhux7o1_500.webp",
+    "images/Pasted image 20231026204133.png",
+    "images/fromDM/Pasted image 20231218213000.png",
+    "images/memes/ToTheBatcave.gif",
+    "images/maps/PXL_20221114_225910154.jpg",
+    "images/maps/PXL_20221114_175207521.jpg",
+    "missions",
+    "images/memes/Arthur-died-OH-NO.png",
+    "images/fromDM/Pasted image 20231218211257.png",
+    "characters/enemies",
+    "locations/inns",
+    "case files"
   ]
 }

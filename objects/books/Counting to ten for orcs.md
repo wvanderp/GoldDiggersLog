@@ -1,3 +1,7 @@
+---
+author: ChatGPT
+---
+
 Once upon a time in a land far, far away,
 There lived a tribe of orcs so strong and brave.
 They loved to count and learn new things each day,

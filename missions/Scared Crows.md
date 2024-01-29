@@ -1,6 +1,6 @@
 # summary
-clients: [[Stoutfellow Farm|ms&mr Stoutfellow]]
-payment: 1 barrel of wine
+Clients: [[Stoutfellow Farm|Ms. & Mr. Stoutfellow]]
+Payment: 1 barrel of wine
 
 # Finding
 

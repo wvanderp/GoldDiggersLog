@@ -1,5 +1,8 @@
 ---
-aliases: [Arthur]
+aliases:
+  - Arthur
+Race: Human
+Gender: Male
 ---
 
 A man (25 M) of average stature
@@ -11,7 +14,7 @@ Not from the army
 
 He is a thieve a real Robbin hood character
 
-Older brother of [[Isona]] (but she is the more responsible)
+Older brother of [[Isona Silverspeak|Isona]] (but she is the more responsible)
 
 Might be dating [[Galadriel i sael|Galadriel]] (implied by there night walk [[session 7]])
 

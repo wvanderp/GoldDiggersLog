@@ -29,10 +29,10 @@ He questions who we are.
 We question who he is.
 
 He is [[Arthur Silverspeak]]
-Searching for his sister [[Isona]]
+Searching for his sister [[Isona Silverspeak|Isona]]
 He last saw her a few months ago in their village
 
-[[Isona]] fled the army
+[[Isona Silverspeak|Isona]] fled the army
 Is he an Intel agent?
 
 Then [[Jenks|a boy]] runs out of the room next door and hides behind [[Eur Dur]].
@@ -91,7 +91,7 @@ Also in the house are [[Ned]] and [[Squiddly]]
 They were playing in the tavern with marbles and listening to [[Lif]] about the ghosts
 
 Then we took the time to roast [[Arthur Silverspeak|Arthur]] about his past
-He and [[Isona]] are not on the best terms
+He and [[Isona Silverspeak|Isona]] are not on the best terms
 That is all the time we have for today. We conclude we don't like him yet.
 
 The roast was cut short because the door to the hallway revealed another ghost.

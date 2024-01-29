@@ -1,3 +1,8 @@
+---
+Race: Mountain Dwarf
+Gender: Male
+---
+
 Eur Dur (55 M), [[mountain dwarf]] [[fighter]], a dwarf driven by knowledge and a desire to be a great wizard. He moved to [[Waterdeep]] a few months ago to find knowledge. But instead of knowledge, he found an overwhelming environment and a lot of dead ends. He has been staying in the [[Yawning Portal]]. Every night he can be found in the corner of the tavern drinking some ale alone.
 
 ## backstory

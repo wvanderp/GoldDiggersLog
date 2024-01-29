@@ -1,4 +1,9 @@
-Traris (120 M), [[wood elf]] unearthed arcana ([[Ranger]]), who wanders the world and often works as a guide. Found [[Isona]] in the wilderness and brought her to the city.
+---
+Race: Elf
+Gender: Male
+---
+
+Traris (120 M), [[wood elf]] unearthed arcana ([[Ranger]]), who wanders the world and often works as a guide. Found [[Isona Silverspeak|Isona]] in the wilderness and brought her to the city.
 
 Knows a [[female guard]] (part of the [[City Watch]] in water deep)
 

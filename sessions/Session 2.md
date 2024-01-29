@@ -13,7 +13,7 @@ Initiative
 - Galadriel
 - Dan Sing
 
-[[Isona]] chickens out and runs outside
+[[Isona Silverspeak|Isona]] chickens out and runs outside
 
 [[Traris]] prepares an arrow and shoots. They start running
 {{d20|19}} {{D8|8}}
@@ -25,7 +25,7 @@ Initiative
 
 [[Dan Sing]] moves into the cord yard and watches the background
 
-[[Isona]] comes to finish the job that [[Eur Dur]] started
+[[Isona Silverspeak|Isona]] comes to finish the job that [[Eur Dur]] started
 {{D12|12+6}}
 
 [[Traris]] wanted to flee but decided to stay and shoot and killed one of the birds
@@ -38,10 +38,10 @@ One of the birds ran out. I tried to grapple it. But failed, and it was stared d
 [[Dan Sing]] find another bird in the doorway, and with a song, it says:
 "[[Xanathar]] sends his regards."
 
-[[Isona]] is very interested in why there are 12 bodies inside,
+[[Isona Silverspeak|Isona]] is very interested in why there are 12 bodies inside,
 "No time to loot the place. Have to take them to the boss."
 
-Then [[Isona]] grappled the bird
+Then [[Isona Silverspeak|Isona]] grappled the bird
 
 [[Traris]] asks what they are doing here
 "Just tied up the guys in the back."
@@ -60,7 +60,7 @@ Drinks... home??? Jumped... lost Floon...
 
 Then the [[City Watch|city guard]] enter the premises.
 
-[[Isona]] tries to steal something while the [[City Watch|city guard]] is entering
+[[Isona Silverspeak|Isona]] tries to steal something while the [[City Watch|city guard]] is entering
 [[Galadriel i sael|Galadriel]] tries to stop her but fails
 
 The [[City Watch|city Guard's]] [[Captain Staget]] talks to [[Renaer Neverember]] and he explains the situation
@@ -84,9 +84,9 @@ After looking outside, we find a clue leading us to the [[sewers]]
 
 # [[Renaer Neverember|Renaer's house]]
 
-A long night of investigating, reading and snooping at the house of [[Renaer Neverember]] ends in [[Isona]] picking a lock of the sleeping chambers of the [[Renaer Neverember|Renaer]] and getting caught by his butler.
+A long night of investigating, reading and snooping at the house of [[Renaer Neverember]] ends in [[Isona Silverspeak|Isona]] picking a lock of the sleeping chambers of the [[Renaer Neverember|Renaer]] and getting caught by his butler.
 
-After this night of hijinks, [[Isona]] and [[Galadriel i sael|Galadriel]] try to gaslight [[Renaer Neverember|Renaer]] into firing one of the maids. This annoyed [[Renaer Neverember|Renaer]]
+After this night of hijinks, [[Isona Silverspeak|Isona]] and [[Galadriel i sael|Galadriel]] try to gaslight [[Renaer Neverember|Renaer]] into firing one of the maids. This annoyed [[Renaer Neverember|Renaer]]
 
 Although we used much of [[Renaer Neverember|Renaer]] goodwill, he will still help us while investigating the sewers
 
@@ -113,7 +113,7 @@ Roll initiative
 {{d20|16|6}}
 {{d8|2|4}}
 
-[[Isona]] throws a dagger
+[[Isona Silverspeak|Isona]] throws a dagger
 
 {{D20|8|6}}
 

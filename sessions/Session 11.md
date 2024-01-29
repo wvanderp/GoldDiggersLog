@@ -53,7 +53,7 @@ the [[Harpers]] fake [[Arthur Silverspeak|Arthurs]] death. because he accepts th
 
 is this the last we will see from [[Arthur Silverspeak|Arthur]]?
 
-## snowbeatle farm
+## Snowbeatle farm
 
 we return to [[Snobeedle Orchard and Meadery]] were the finest wine is 15 GP a bottle and there is no 1 GP wine. a mult is 8 cp.
 

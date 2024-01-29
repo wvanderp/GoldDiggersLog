@@ -10,11 +10,11 @@ Or leaving...
 After some healthy discussion, we decide on leaving
 We follow the [[sewers]] back and find a random stair up
 
-[[Isona]] makes a stealth check to peek through the sewer cover
+[[Isona Silverspeak|Isona]] makes a stealth check to peek through the sewer cover
 She sees a basement
 [[Traris]] also takes a look and hears the sounds of a tavern
 
-[[Isona]] goes up and peaks out the door. She reports back that we are in a fancy tavern.
+[[Isona Silverspeak|Isona]] goes up and peaks out the door. She reports back that we are in a fancy tavern.
 
 [[Dan Sing]] recognizes the tavern as the [[Spouting Fish]]
 
@@ -23,7 +23,7 @@ After the lute music starts, every character makes a big entrance into the main 
 
 [[Galadriel i sael|Galadriel]] makes a royal entrance. While [[Traris]] is more reserved. They both sit at the same table.
 
-[[Isona]] walks out and picks a different table
+[[Isona Silverspeak|Isona]] walks out and picks a different table
 
 [[Eur Dur]] uses jazz hands and jazz hands straight out of the door
 
@@ -68,7 +68,7 @@ But [[Galadriel i sael|Galadriel]] could not keep her mind of the [[mind flayer]
 
 # To the library
 
-![[ezgif.com-gif-maker.gif|150]]
+![[ToTheBatcave.gif|150]]
 
 [[Eur Dur]] proceeds to flip through [[Volo's Guide to Monsters]]
 And quickly finds what he is looking for
@@ -95,7 +95,7 @@ Knocking down the door is also no option because it would cost 500 gold prices.
 
 So when we were unsuccessful in waking him, we went downstairs and waited for him.
 
-[[Isona]] and [[Galadriel i sael|Galadriel]] follow [[Volo]]. But when [[Galadriel i sael|Galadriel]] gets up to follow
+[[Isona Silverspeak|Isona]] and [[Galadriel i sael|Galadriel]] follow [[Volo]]. But when [[Galadriel i sael|Galadriel]] gets up to follow
 But when [[Galadriel i sael|Galadriel]] gets up to follow [[Volo]], he sits back down again in protest.
 It's clear he does not like [[Galadriel i sael|Galadriel]]
 
@@ -108,12 +108,12 @@ A group goes to [[Old Xoblob Shop]] to buy some purple items
 
 From here, the party splits up. The following accounts should be interwoven but are split for your pleasure:
 
-First [[Isona]]
+First [[Isona Silverspeak|Isona]]
 
-[[Isona]] follows [[Volo]], but he does what he said he would do.
+[[Isona Silverspeak|Isona]] follows [[Volo]], but he does what he said he would do.
 He went home to get the deeds of the house.
 
-[[Isona]] goes back to the [[Yawning Portal]] to check on [[Renaer Neverember|Renaer]].
+[[Isona Silverspeak|Isona]] goes back to the [[Yawning Portal]] to check on [[Renaer Neverember|Renaer]].
 But she makes some moves on him
 And they drink a LOT
 

@@ -1,3 +1,11 @@
+---
+aliases:
+  - Isona
+Race: Human
+Gender: Female
+---
+
+
 Isona Silverspeak (25 F), [[human]] [[rogue]] exiled soldier from a neighboring region because of disobeying orders. Found half-dead by [[Traris]] in the to be party and was brought to [[Waterdeep]] to recover.
 
 Has a older brother [[Arthur Silverspeak]]

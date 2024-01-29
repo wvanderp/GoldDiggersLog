@@ -13,7 +13,7 @@ Some guys
 
 [[Yara stonefist|a female half-orc]] is fighting with a human. At some point, the half-orc knocks out the human, and four of his friends take over the fight. The half-orc, who seemed to be winning, is now losing the fight. The owner of the tavern commands everybody out. The half-orc falls unconscious.
 
-During the fight, [[Traris]] and [[Galadriel i sael|Galadriel]] stay at the table, enjoying a delicious glass of wine. [[Eur Dur|eur]] and [[Isona]] "try" to jump into the action. [[Isona]] gets one and grapples him. While [[Eur Dur]] fails at jumping from a table and gets some points in emotional damage.
+During the fight, [[Traris]] and [[Galadriel i sael|Galadriel]] stay at the table, enjoying a delicious glass of wine. [[Eur Dur|eur]] and [[Isona Silverspeak|Isona]] "try" to jump into the action. [[Isona Silverspeak|Isona]] gets one and grapples him. While [[Eur Dur]] fails at jumping from a table and gets some points in emotional damage.
 [[Dan Sing]], who was watching from the first floor while playing a "fighting" song
 
 The half-orc is part of the [[Zhentarim]]. The humans were from the [[Xanathar]].
@@ -26,14 +26,14 @@ While everybody is cheering for the "victory" of the half-orc, a sound comes fro
 
 The elves join the fight for the first time by drawing an arrow and delivering a deathly blow by missing the target and jumping behind the bar.
 
-[[Isona]] also decides to join the fight by fleeing
+[[Isona Silverspeak|Isona]] also decides to join the fight by fleeing
 
 The bats launch towards the bar with [[Traris]] and [[Galadriel i sael|Galadriel]] behind it. Galadriel jumps up from behind the bar and fires an arrow that sends one of the bat creatures to death.
 
 [[Eur Dur]] throws a hand-axe, and it was very inefficient
 [[Galadriel i sael|Galadriel]] sends a flaming arrow, and it was very effective
 
-[[Isona]] runs back into the bar
+[[Isona Silverspeak|Isona]] runs back into the bar
 
 [[Traris]] was is inspired by [[Galadriel i sael|Galadriel]] cool move and fires a flaming arrow of its own.
 
@@ -45,7 +45,7 @@ Then the barkeep draws his mighty sword and slashes the troll. And it dies falli
 
 [[Galadriel i sael|Galadriel]] destroys the bat on the strings with a critical role
 
-[[Isona]] tries to slash with her short sword and kills the last bat
+[[Isona Silverspeak|Isona]] tries to slash with her short sword and kills the last bat
 
 *end of combat*
 
@@ -78,7 +78,7 @@ We keep walking in a bad neighborhood.
 
 # In the [[Skewered Dragon]]
 
-[[Isona]] tries to find some information with her womanly charms. But finds that a few coppers work better.
+[[Isona Silverspeak|Isona]] tries to find some information with her womanly charms. But finds that a few coppers work better.
 
 [[Floon]] was here drinking with [[Renaer Neverember]], and they left together
 
@@ -101,7 +101,7 @@ Either
 - kick in the door
 - Or sneak in
 
-We chose to sneak in (the door can always be kicked in). It went very well but then [[Isona]] got caught
+We chose to sneak in (the door can always be kicked in). It went very well but then [[Isona Silverspeak|Isona]] got caught
 
 **roll initiative**
 

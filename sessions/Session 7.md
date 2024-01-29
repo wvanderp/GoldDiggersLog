@@ -8,7 +8,7 @@ tags:
 
 They make a solid plan, including
 
-- screaming [[Isona|Isonas]] name
+- screaming [[Isona Silverspeak|Isonas]] name
 - and running if things go south
 it appears that [[Arthur Silverspeak|Arthur]] has a meeting with the [[Xanathar]] guild
 
@@ -60,7 +60,7 @@ the [[Arthur Silverspeak|Arthur]] invitest the [[Blackstaff]] for dinner or brea
 while [[Traris]] splits from the group to "do some parents", eur and Dan go inside
 the ask for [[Captain Staget]] 
 
-He doesn't know anything about [[Isona]]. But he doesn't know everything off the top of his head.
+He doesn't know anything about [[Isona Silverspeak|Isona]]. But he doesn't know everything off the top of his head.
 When he checks his papers, he finds a file missing two days ago.
 
 then we ask him about the [[mind flayer|tentacle monster]]. he is not happy that we did not finish the job.

@@ -15,7 +15,7 @@ We find the following map:
 ![[PXL_20221114_175207521.jpg]]
 
 [[Eur Dur]] looks through the arrow slits but sees nothing
-[[Isona]] also looks through an arrow slit but also sees nothing
+[[Isona Silverspeak|Isona]] also looks through an arrow slit but also sees nothing
 [[Traris]] looks through an arrow slit but sees nothing
 
 [[Traris]] opens a door. It scrapes open
@@ -66,7 +66,7 @@ We find the following map:
 ![[PXL_20221114_175207521.jpg]]
 
 [[Eur Dur]] looks through the arrow slits but sees nothing
-[[Isona]] also looks through an arrow slit but also sees nothing
+[[Isona Silverspeak|Isona]] also looks through an arrow slit but also sees nothing
 [[Traris]] looks through an arrow slit but sees nothing
 
 [[Traris]] opens a door. It scrapes open
@@ -107,12 +107,12 @@ Roll initiative
 - [[Renaer Neverember|Renaer]]
 - Big [[mind flayer|tentacle guy]]
 - [[Eur Dur]]
-- [[Isona]]
+- [[Isona Silverspeak|Isona]]
 - [[Galadriel i sael|Galadriel]]
 - The half-orc
 - [[Traris]]
 
-[[Isona]] gets possessed by the brain???
+[[Isona Silverspeak|Isona]] gets possessed by the brain???
 While being Unconscious
 
 [[Eur Dur]] gives her a health potion
@@ -122,12 +122,12 @@ And the [[mind flayer|tentacle guy]] portals away
 
 - Big [[mind flayer|tentacle guy]]
 - [[Eur Dur]]
-- [[Isona]]
+- [[Isona Silverspeak|Isona]]
 - [[Galadriel i sael|Galadriel]]
 - The half-orc
 - [[Traris]]
 
-[[Isona]] gets possessed by the brain???
+[[Isona Silverspeak|Isona]] gets possessed by the brain???
 While being Unconscious
 
 [[Eur Dur]] gives her a health potion
