@@ -11,3 +11,5 @@ He's got:
 - purple pipe (2 sp) bought by dan sing
 - old purple socks (worn)
 - purple buttons (will not be sold as it is a gift)
+
+has purple curtains for a good price

@@ -1,6 +1,10 @@
 ---
 Race: Elf
 Gender: Male
+Alliance:
+  - Black hand
+  - Harper
+  - Emerald enclave
 ---
 
 Traris (120 M), [[wood elf]] unearthed arcana ([[Ranger]]), who wanders the world and often works as a guide. Found [[Isona Silverspeak|Isona]] in the wilderness and brought her to the city.

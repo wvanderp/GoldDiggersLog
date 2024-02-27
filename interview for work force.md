@@ -1,4 +1,4 @@
-## bar tending
+## Bar tending
 
 Race: [[kobold]]
 name: mosp
@@ -39,7 +39,7 @@ she makes a [[cosmopolotain]]
 
 conclusion we hire bout lilian and linsy
 
-## barmaid
+## Barmaid
 
 name: riba
 race: halfling
@@ -87,7 +87,7 @@ can deleiver beer
 
 ---
 we hire the three elfs
-## cooks
+## Cooks
 
 race: human
 name: Isgrigg & Dupere
