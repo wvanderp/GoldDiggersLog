@@ -37,9 +37,9 @@ the couter offer is 5 10-days (aka 50 days)
 
 then a paper airplain flys into [[Dan SingDansing's]] lap.
 we have been invited to see the ophra.
-It also asks if[[Dan Sing]] is intrested in joining the sender for a meet in box c
+It also asks if [[Dan Sing]] is interested in joining the sender for a meet in box c
 
-the opra is in the [[light singer]] in the [[carpenter ward]].
+the opera is in the [[light singer]] in the [[Carpenter ward]].
 
 when [[Galadriel i sael|Galadriel]] returns he lies and says that the [[Blackstaff]] is still looking for [[Arthur Silverspeak|Arthur]]
 [[Eur Dur]] does not notice this lie. but [[Traris]] and [[Dan Sing]] call out [[Galadriel i sael|Galadriel]].

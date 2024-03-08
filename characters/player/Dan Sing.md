@@ -15,3 +15,6 @@ Dan Sing, (26 M) Local [[Human]] [[Bard]]. Mostly found in the inns and pubs at 
 
 Hates [[goblin|goblin's]]
 Allergic to ginger or [[camabert]]
+
+
+hooked up with [[Fenora the Mortician]] at the opeinging party of [[Hobsens hub]]

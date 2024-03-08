@@ -2,13 +2,13 @@
 tags:
   - session
 ---
-We are in the [[sewers]] about to leave...
+We are in the [[Sewers]] about to leave...
 Or take a short rest...
 Or exploring more...
 Or leaving...
 
 After some healthy discussion, we decide on leaving
-We follow the [[sewers]] back and find a random stair up
+We follow the [[Sewers]] back and find a random stair up
 
 [[Isona Silverspeak|Isona]] makes a stealth check to peek through the sewer cover
 She sees a basement
@@ -35,7 +35,7 @@ The first thing we do is haggle him for money (see also [[Session 2#Zhentarim hi
 
 We explain to him about the walking brain and the [[mind flayer|tentacle monster]]
 
-[[Captain Staget]] sends for guards to check out the [[sewers]]
+[[Captain Staget]] sends for guards to check out the [[Sewers]]
 
 # Celebrations at the [[Yawning Portal]]
 

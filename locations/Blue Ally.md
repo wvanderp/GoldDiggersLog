@@ -1,0 +1,1 @@
+the Blue Ally located in the [[Sea ward]] is a challenging dungeon created by a mage. it contains many riches and treasure

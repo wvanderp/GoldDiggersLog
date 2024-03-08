@@ -22,7 +22,7 @@ gender: female
 name: linsy laugingsteel
 race: human
 
-has bartended for many years down at [[neverwinter]]
+has bartended for many years down at [[Neverwinter]]
 
 knows [[Frodo]] and has some tea for us
 
@@ -51,11 +51,11 @@ did manage to sell no to the bard
 
 did take care of little once
 
-did spil a drink while serving
+did spill a drink while serving
 
 ----
 
-three elf in a tranch coate float in.
+three elf in a trench coate float in.
 
 race: elf
 name: Althaea, Elthaea, Ulthaea
@@ -77,7 +77,7 @@ race: human
 sex: male
 name patrick nifka
 
-expirance none
+experience none
 wood working apranatch 
 
 how mutch wood would a woodchuck chuck chuck if a woodchuck could cluck wood?

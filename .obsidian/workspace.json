@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "414748c3b64bebcf",
+        "id": "84e31c257a94d891",
         "type": "tabs",
         "children": [
           {
-            "id": "9ecf4913dc690262",
+            "id": "28a73f3d043a50f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/Session 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "660e89ed2f9523fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,63 +32,31 @@
             }
           },
           {
-            "id": "d0d0c7d2545f3deb",
+            "id": "111142d58e34052a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview for work force.md",
+                "file": "characters/npc/Frodo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "942980030e52c89a",
+            "id": "729d874595ae7360",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbd16c08872ef7e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/npc/the dynamic three/Jenks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d8d462bd90cb890",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f5017d76dc714af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frodo.md",
+                "file": "sessions/Session 7.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "morgue",
+                "query": "Sewers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/npc/the dynamic three/Jenks.md",
+                "file": "characters/npc/Frodo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/npc/the dynamic three/Jenks.md",
+                "file": "characters/npc/Frodo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,12 +170,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/npc/the dynamic three/Jenks.md"
+                "file": "characters/npc/Frodo.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,50 +189,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbd16c08872ef7e7",
+  "active": "111142d58e34052a",
   "lastOpenFiles": [
-    "sessions/Session 13.md",
-    "characters/player/Melondor Wardragon.md",
+    "Neverwinter.md",
+    "characters/npc/Frodo.md",
+    "Interview for work force.md",
+    "sessions/Session 7.md",
+    "locations/inns/Come On Inn.md",
+    "locations/inns/Grinning lion.md",
+    "locations/inns/Hobsens hub.md",
+    "locations/inns/Skewered Dragon.md",
+    "locations/inns/Yawning Portal.md",
+    "missions/Horsing Around.md",
+    "sessions/Session 4.md",
+    "locations/inns/Spouting Fish.md",
+    "sessions/Session 3.md",
+    "sessions/Session 2.md",
+    "sessions/Session 14.md",
+    "sessions/Session 15.md",
+    "sessions/Session 16.md",
     "characters/npc/Family Estelmer.md",
-    "characters/player/Arthur Silverspeak.md",
+    "sessions/Session 1.md",
+    "characters/npc/Lady Elanora.md",
+    "characters/npc/Fenora the Mortician.md",
+    "characters/npc/the dynamic three/Jenks.md",
+    "hobbsen.md",
+    "sessions/Session 5.md",
     "characters/player/Dan Sing.md",
-    "Session 16.md",
-    "locations/Old Xoblob Shop.md",
+    "locations/Blue Ally.md",
+    "locations/wards",
+    "Untitled",
+    "images/memes/Ze2MbC.gif",
+    "images/memes/Ze2MbC.gif.crdownload",
+    "images/memes/1bGq.gif",
+    "images/memes/1bGq.gif.crdownload",
+    "images/fromDM/Pasted image 20240227194858.png",
+    "Pasted image 20240227195337.png",
     "images/memes/f4b51ce5-2ae2-4473-b502-ca033ad98d53_text.gif",
     "images/memes/f4b51ce5-2ae2-4473-b502-ca033ad98d53_text.gif.crdownload",
-    "Pasted image 20240227195337.png",
-    "sessions/Session 14.md",
-    "Althaea, Elthaea, Ulthaea.md",
-    "Pasted image 20240227194858.png",
-    "Interview for work force.md",
-    "sessions/Session 6.md",
-    "objects/books/Counting to ten for orcs.md",
-    "characters/npc/the dynamic three/Ned.md",
-    "characters/npc/the dynamic three/Squiddly.md",
-    "bar personal/Linsy Laugingsteel.md",
-    "locations/inns/Yawning Portal.md",
-    "characters/npc/the dynamic three/Jenks.md",
-    "bar personal",
-    "characters/npc/Remallia Haventree.md",
-    "characters/Arthur junior.md",
+    "characters/npc/bar personal",
     "images/fromDM/harperLogo.png",
     "images/fromDM/scarecrowImage.png",
     "images/fromDM/Pasted image 20231218213000.png",
     "images/fromDM/Pasted image 20231218211257.png",
     "images/tumblr_n53yj4pPsu1qfhux7o1_500.webp",
-    "images/Pasted image 20231026204133.png",
-    "images/maps/PXL_20221114_225910154.jpg",
-    "locations/inns/Hobsens hub.md",
-    "sessions/Session 15.md",
-    "sessions/Session 1.md",
-    "characters/player/Traris.md",
-    "characters/npc/Mert.md",
-    "sessions/Session 11.md",
-    "characters/player/Eur Dur.md",
     "races",
     "missions",
     "characters/enemies",
-    "locations/inns",
-    "case files"
+    "locations/inns"
   ]
 }

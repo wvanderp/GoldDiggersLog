@@ -80,7 +80,7 @@ He doesn't
 
 After some investigation, we found a paper bird that could send anybody a message.
 
-After looking outside, we find a clue leading us to the [[sewers]]
+After looking outside, we find a clue leading us to the [[Sewers]]
 
 # [[Renaer Neverember|Renaer's house]]
 
@@ -90,14 +90,14 @@ After this night of hijinks, [[Isona Silverspeak|Isona]] and [[Galadriel i sael|
 
 Although we used much of [[Renaer Neverember|Renaer]] goodwill, he will still help us while investigating the sewers
 
-# The [[sewers]]
+# The [[Sewers]]
 
-[[Eur Dur]] jumps into the [[sewers]] first. A yellow symbol of an eye greets us
+[[Eur Dur]] jumps into the [[Sewers]] first. A yellow symbol of an eye greets us
 Together with the foul smell of raw sewage
 
 A line is formed, and a sneaky march is started down the sewer lines.
 
-After following the sewers for an hour, we find a creature.
+After following the Sewers for an hour, we find a creature.
 A big [[gazer|floating eye]] with tentacles.
 
 Roll initiative

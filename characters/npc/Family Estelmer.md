@@ -2,6 +2,7 @@
 aliases:
   - Genevieve Estelmer
   - Ophitrana Estelmer
+  - loansharks
 ---
 
 Two woman and two kids

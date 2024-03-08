@@ -1,6 +1,8 @@
 ---
 Race: Elf
 Gender: Female
+aliases:
+  - AEU
 ---
 
 

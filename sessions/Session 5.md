@@ -66,7 +66,7 @@ Then the ghost moves through [[Eur Dur]]. It does not feel good. He makes a cons
 
 [[Galadriel i sael|Galadriel]] and [[Traris]] hit the remaining ghosts
 
-We derive that the boy is called [[Jenks]] he clutches his familiar [[hobbsen]]
+We derive that the boy is called [[Jenks]] he clutches his familiar [[Jenks#Hobsen|Hobsen]]
 
 [[Arthur Silverspeak|Arthur]] asks [[Jenks]] how to defeat the ghosts
 

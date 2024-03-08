@@ -53,7 +53,7 @@ After the fight, the party gathers their arrows and axes. Eur finds only one.
 
 Then a man walks up to the group. "Be they adventurers?" he asks. And we say 'yeah'. [[Galadriel i sael|Galadriel]] buys us all drinks, and we sit down at a table
 
-[[Volo]] asks us to look for his friend [[Floon]]. He was last seen drunk in the [[Skewered Dragon]] in the dock ward.
+[[Volo]] asks us to look for his friend [[Floon]]. He was last seen drunk in the [[Skewered Dragon]] in the [[Dock Ward]].
 
 What does [[Floon]] look like?
 

@@ -2,7 +2,7 @@
 tags:
   - session
 ---
-We left off in the [[sewers]] after killing the [[gazer]]
+We left off in the [[Sewers]] after killing the [[gazer]]
 
 [[Dan Sing]] stole the head of the [[gazer]]
 
@@ -53,7 +53,7 @@ Roll initiative
 
 - [[Dan Sing]]
 - Brain
-- [[Renaer Neverember|Renaer]] we left off in the [[sewers]] after killing the [[gazer]]
+- [[Renaer Neverember|Renaer]] we left off in the [[Sewers]] after killing the [[gazer]]
 
 [[Dan Sing]] stole the head of the [[gazer]]
 

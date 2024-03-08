@@ -20,7 +20,7 @@ The test: "clear" the [[Come On Inn]]
 
 [[Galadriel I sael|Galadriel]] tries to make a new acquaintance by talking bull shit.
 
-We find out that the barkeep has a coupon called Frodo.
+We find out that the barkeep has a cousin called [[Frodo]].
 
 They convince the barkeep to take a vacation ^vacation
 
