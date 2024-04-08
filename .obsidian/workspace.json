@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77a99c716cf8436a",
+            "id": "5ad734495a2933a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ddf28e775c269cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/npc/Remallia Haventree.md",
+                "file": "characters/player/Arthur Silverspeak.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"the Merciles\"",
+                "query": "gold",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 14.md",
+                "file": "characters/player/Arthur Silverspeak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 14.md",
+                "file": "characters/player/Arthur Silverspeak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 14.md"
+                "file": "characters/player/Arthur Silverspeak.md"
               }
             }
           }
@@ -164,37 +153,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77a99c716cf8436a",
+  "active": "6bac75319e2da02d",
   "lastOpenFiles": [
-    "characters/npc/Remallia Haventree.md",
+    "characters/npc/Fenora the Mortician.md",
+    "characters/player/Arthur Silverspeak.md",
+    "locations/inns/Come On Inn.md",
+    "Interview for work force.md",
+    "characters/npc/bar personal/Isgrigg & Dupere.md",
+    "clans/City watch.md",
+    "sessions/Session 16.md",
+    "characters/npc/Family Estelmer.md",
+    "images/memes/Ze2MbC.gif",
+    "sessions/Session 17.md",
+    "characters/player/Melandor.md",
+    "locations/inns/Grinning lion.md",
+    "sessions/Session 13.md",
+    "sessions/Session 7.md",
+    "sessions/Session 1.md",
     "sessions/Session 14.md",
+    "characters/npc/Remallia Haventree.md",
     "missions/Horsing Around.md",
     "Broxley Fairkettle.md",
-    "characters/player/Arthur Silverspeak.md",
-    "characters/npc/Fenora the Mortician.md",
     "characters/npc/Mirt the Merciless.md",
-    "characters/player/Melondor Wardragon.md",
     "Giant.md",
     "characters/npc/the dynamic three/Jenks.md",
-    "sessions/Session 16.md",
     "locations/Lightsinger Theater.md",
     "locations/Old Xoblob Shop.md",
-    "sessions/Session 13.md",
     "sessions/Session 15.md",
     "th.md",
-    "sessions/Session 7.md",
     "characters/npc/Renaer Neverember.md",
-    "sessions/Session 12.md",
-    "sessions/Session 11.md",
-    "locations/inns/Yawning Portal.md",
-    "characters/npc/Volo.md",
-    "characters/npc/Floon.md",
-    "characters/npc/Frodo.md",
-    "Neverwinter.md",
-    "Interview for work force.md",
     "locations/wards",
     "Untitled",
-    "images/memes/Ze2MbC.gif",
     "images/memes/Ze2MbC.gif.crdownload",
     "images/memes/1bGq.gif",
     "images/memes/1bGq.gif.crdownload",

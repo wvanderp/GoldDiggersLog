@@ -13,6 +13,6 @@ he's got a dead wife named [[Asper]]
 
 stationed at the [[Grinning lion]]
 
-acquaintance of [[Melondor Wardragon]]
+acquaintance of [[Melandor]]
 
 fighting against both the [[Xanathar]] and [[Zhentarim]]

@@ -92,7 +92,7 @@ we hire the three elfs
 race: human
 name: Isgrigg & Dupere
 
-worked at a thinker knome at a other known city.
+worked at a thinker gnome at a other known city.
 
 they are married with kids
 

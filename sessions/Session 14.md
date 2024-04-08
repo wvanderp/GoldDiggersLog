@@ -34,7 +34,7 @@ he only stops when he gets intoruped by [[Mirt the Merciless|Mirt]]
 he tells us that he is a agent of the [[Harpers]] and invides us to join the [[Harpers]]
 
 
-[[Mirt the Merciless|Mirt]] is accompanied by a young moon elf [[Melondor Wardragon|Melondor]] who is a student at the [[Blackstaff Academy]]
+[[Mirt the Merciless|Mirt]] is accompanied by a young moon elf [[Melandor|Melondor]] who is a student at the [[Blackstaff Academy]]
 
 [[Mirt the Merciless|Mirt]] has a mision for us so we agree on a follow meeting at [[Hobsens hub]]
 
@@ -54,7 +54,7 @@ we go back to our seeds and watch the rest of the play.
 
 ---
 
-[[Eur Dur]] meets [[Melondor Wardragon|Melondor]] in the liberay wher [[Eur Dur]] finds out that the play is mostly accurate to what actauly happend.
+[[Eur Dur]] meets [[Melandor|Melondor]] in the liberay wher [[Eur Dur]] finds out that the play is mostly accurate to what actauly happend.
 
 ---
 

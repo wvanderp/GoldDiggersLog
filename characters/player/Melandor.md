@@ -1,6 +1,5 @@
 ---
-aliases:
-  - Melondor
+aliases: []
 Race: Elf
 Gender: Male
 ---

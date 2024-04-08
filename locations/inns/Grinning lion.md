@@ -5,7 +5,7 @@ fake trophies from all over the world
 
 in a former warehouse
 
-familiar space for [[Melondor Wardragon]] and [[Mirt the Merciless]]
+familiar space for [[Melandor]] and [[Mirt the Merciless]]
 
 [[Mirt the Merciless]] about if the trophies are real
 `it does not matter`
