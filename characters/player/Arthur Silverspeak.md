@@ -20,9 +20,10 @@ Might be dating [[Galadriel i sael|Galadriel]] (implied by there night walk [[se
 
 Allergic to arrows
 
-
 died while running from bandits (but secretly accepted a mission from the [[Harpers]])
 (see [[Session 11#the "death" of Arthur]])
+
+seen by [[Galadriel i sael|Galadriel]] to be really dead
 ## eulogy
 
 Ladies and gentlemen, we gather here today to remember a soul whose journey was marked by uncertainty and unexpected discoveries. Arthur Silverspeak, a name that entered our lives like a whisper on the wind, was a rough gem whose facets were only beginning to shine. Though we barely knew him, his story serves as a poignant reminder of the power of human connection and the importance of finding family in unexpected places.

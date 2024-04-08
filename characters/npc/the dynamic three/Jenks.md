@@ -10,6 +10,6 @@ the familiar [[Jenks#Hobsen|Hobsen]] has been blown up
 ## Hobsen
 
 
-a [[owlbear]] plush familiar [[Jenks#Hobsen|Hobsen]].
+A [[owlbear]] plush familiar [[Jenks#Hobsen|Hobsen]].
 
 lends his name to the [[Hobsens hub]]

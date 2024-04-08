@@ -35,21 +35,21 @@ she get offerd a lease-bow also known as a loan-bow for the book.
 she starts bidding at 100 years.
 the couter offer is 5 10-days (aka 50 days)
 
-then a paper airplain flys into [[Dan SingDansing's]] lap.
+then a paper airplane flys into [[Dan Sing|Dansing's]] lap.
 we have been invited to see the ophra.
 It also asks if [[Dan Sing]] is interested in joining the sender for a meet in box c
 
-the opera is in the [[light singer]] in the [[Carpenter ward]].
+the opera is in the [[Lightsinger Theater]] in the [[Carpenter ward]].
 
 when [[Galadriel i sael|Galadriel]] returns he lies and says that the [[Blackstaff]] is still looking for [[Arthur Silverspeak|Arthur]]
 [[Eur Dur]] does not notice this lie. but [[Traris]] and [[Dan Sing]] call out [[Galadriel i sael|Galadriel]].
 in retaliation they dont tell [[Galadriel i sael|Galadriel]] about the oprha.
 
-[[Traris]], [[Eur Dur]], and [[Dan Sing]] need fancy cloths so we went and boght some.
+[[Traris]], [[Eur Dur]], and [[Dan Sing]] need fancy cloths so we went and bought some.
 
 we are going to to [[the fall of Thiamat]].
 
-we go to horish thissle fine cloths store.
+we go to [[horish thistle fine cloths store]].
 
 I buy the following cloths
 

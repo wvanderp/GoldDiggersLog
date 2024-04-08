@@ -1,0 +1,1 @@
+part of the [[Fellowship of Innkeepers]]

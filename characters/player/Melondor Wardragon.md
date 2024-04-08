@@ -6,8 +6,12 @@ Gender: Male
 ---
 
 (79 male)
+slender, with blue hair
+[[moon elf]]
 
-knows [[Mert]]
+student at the [[Blackstaff Academy]]
+
+knows [[Mirt the Merciless]]
 
 is allergic to children
 

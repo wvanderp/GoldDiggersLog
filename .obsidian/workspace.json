@@ -4,59 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "84e31c257a94d891",
+        "id": "a71f473e3d4f458c",
         "type": "tabs",
         "children": [
           {
-            "id": "28a73f3d043a50f4",
+            "id": "77a99c716cf8436a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 7.md",
+                "file": "sessions/Session 14.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "660e89ed2f9523fd",
+            "id": "5ddf28e775c269cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview for work force.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "111142d58e34052a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/npc/Frodo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "729d874595ae7360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 7.md",
+                "file": "characters/npc/Remallia Haventree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sewers",
+                "query": "\"the Merciles\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/npc/Frodo.md",
+                "file": "sessions/Session 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/npc/Frodo.md",
+                "file": "sessions/Session 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/npc/Frodo.md"
+                "file": "sessions/Session 14.md"
               }
             }
           }
@@ -189,34 +164,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "111142d58e34052a",
+  "active": "77a99c716cf8436a",
   "lastOpenFiles": [
-    "Neverwinter.md",
-    "characters/npc/Frodo.md",
-    "Interview for work force.md",
-    "sessions/Session 7.md",
-    "locations/inns/Come On Inn.md",
-    "locations/inns/Grinning lion.md",
-    "locations/inns/Hobsens hub.md",
-    "locations/inns/Skewered Dragon.md",
-    "locations/inns/Yawning Portal.md",
-    "missions/Horsing Around.md",
-    "sessions/Session 4.md",
-    "locations/inns/Spouting Fish.md",
-    "sessions/Session 3.md",
-    "sessions/Session 2.md",
+    "characters/npc/Remallia Haventree.md",
     "sessions/Session 14.md",
-    "sessions/Session 15.md",
-    "sessions/Session 16.md",
-    "characters/npc/Family Estelmer.md",
-    "sessions/Session 1.md",
-    "characters/npc/Lady Elanora.md",
+    "missions/Horsing Around.md",
+    "Broxley Fairkettle.md",
+    "characters/player/Arthur Silverspeak.md",
     "characters/npc/Fenora the Mortician.md",
+    "characters/npc/Mirt the Merciless.md",
+    "characters/player/Melondor Wardragon.md",
+    "Giant.md",
     "characters/npc/the dynamic three/Jenks.md",
-    "hobbsen.md",
-    "sessions/Session 5.md",
-    "characters/player/Dan Sing.md",
-    "locations/Blue Ally.md",
+    "sessions/Session 16.md",
+    "locations/Lightsinger Theater.md",
+    "locations/Old Xoblob Shop.md",
+    "sessions/Session 13.md",
+    "sessions/Session 15.md",
+    "th.md",
+    "sessions/Session 7.md",
+    "characters/npc/Renaer Neverember.md",
+    "sessions/Session 12.md",
+    "sessions/Session 11.md",
+    "locations/inns/Yawning Portal.md",
+    "characters/npc/Volo.md",
+    "characters/npc/Floon.md",
+    "characters/npc/Frodo.md",
+    "Neverwinter.md",
+    "Interview for work force.md",
     "locations/wards",
     "Untitled",
     "images/memes/Ze2MbC.gif",

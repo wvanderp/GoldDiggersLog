@@ -4,6 +4,7 @@ Gender: Female
 aliases:
   - Felora
   - Fenora
+  - Fenora cinderblume
 ---
 
 felora or fenora is the mortisian at the local morouge.
