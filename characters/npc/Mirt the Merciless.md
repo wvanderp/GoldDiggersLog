@@ -5,6 +5,7 @@ Alliance:
 aliases:
   - Mirt
   - Old Wolf
+  - mert
 ---
 
 also known as **Old Wolf**

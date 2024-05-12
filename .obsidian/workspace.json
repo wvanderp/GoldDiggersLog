@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a71f473e3d4f458c",
+        "id": "6f27af120ed4b68f",
         "type": "tabs",
         "children": [
           {
-            "id": "5ad734495a2933a1",
+            "id": "01d9e23809fd8afd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/player/Arthur Silverspeak.md",
+                "file": "sessions/Session 17.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/player/Arthur Silverspeak.md",
+                "file": "sessions/Session 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/player/Arthur Silverspeak.md",
+                "file": "sessions/Session 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/player/Arthur Silverspeak.md"
+                "file": "sessions/Session 17.md"
               }
             }
           }
@@ -153,35 +152,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bac75319e2da02d",
+  "active": "01d9e23809fd8afd",
   "lastOpenFiles": [
-    "characters/npc/Fenora the Mortician.md",
+    "sefph Crumbly.md",
+    "sessions/Session 17.md",
+    "sessions/Session 7.md",
+    "melanor.md",
+    "sessions/Session 16.md",
+    "characters/npc/Frodo.md",
+    "sessions/Session 15.md",
+    "characters/npc/Mirt the Merciless.md",
+    "sessions/Session 14.md",
+    "missions/Horsing Around.md",
+    "images/fromDM/Pasted image 20231218211257.png",
+    "horse drawn carriages.md",
+    "images/fromDM/Pasted image 20231218213000.png",
+    "images/fromDM/harperLogo.png",
     "characters/player/Arthur Silverspeak.md",
+    "characters/npc/Fenora the Mortician.md",
     "locations/inns/Come On Inn.md",
     "Interview for work force.md",
     "characters/npc/bar personal/Isgrigg & Dupere.md",
     "clans/City watch.md",
-    "sessions/Session 16.md",
     "characters/npc/Family Estelmer.md",
     "images/memes/Ze2MbC.gif",
-    "sessions/Session 17.md",
     "characters/player/Melandor.md",
     "locations/inns/Grinning lion.md",
     "sessions/Session 13.md",
-    "sessions/Session 7.md",
     "sessions/Session 1.md",
-    "sessions/Session 14.md",
     "characters/npc/Remallia Haventree.md",
-    "missions/Horsing Around.md",
     "Broxley Fairkettle.md",
-    "characters/npc/Mirt the Merciless.md",
     "Giant.md",
     "characters/npc/the dynamic three/Jenks.md",
-    "locations/Lightsinger Theater.md",
-    "locations/Old Xoblob Shop.md",
-    "sessions/Session 15.md",
-    "th.md",
-    "characters/npc/Renaer Neverember.md",
     "locations/wards",
     "Untitled",
     "images/memes/Ze2MbC.gif.crdownload",
@@ -192,10 +194,7 @@
     "images/memes/f4b51ce5-2ae2-4473-b502-ca033ad98d53_text.gif",
     "images/memes/f4b51ce5-2ae2-4473-b502-ca033ad98d53_text.gif.crdownload",
     "characters/npc/bar personal",
-    "images/fromDM/harperLogo.png",
     "images/fromDM/scarecrowImage.png",
-    "images/fromDM/Pasted image 20231218213000.png",
-    "images/fromDM/Pasted image 20231218211257.png",
     "images/tumblr_n53yj4pPsu1qfhux7o1_500.webp",
     "races",
     "missions",
