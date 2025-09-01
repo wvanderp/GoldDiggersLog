@@ -1,3 +1,8 @@
+---
+tags:
+  - session
+---
+
 [[Dan Sing]] and [[Traris]] are going to [[Renaer Neverember|Renaer's]] at 10 o'clock at night
 after knocking on the gate [[Nicodemus]] opens the door.
 He confirmed that [[Renaer Neverember|Renaer]] had returned, but he is not currently home.
