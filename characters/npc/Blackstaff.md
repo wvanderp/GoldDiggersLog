@@ -1,3 +1,9 @@
+---
+alias:
+  - olivier
+  - Vercera
+---
+
 A tile given.
 Currently given to Vercera
 
@@ -12,3 +18,5 @@ in good graces with the [[Harpers]]
 ## tower
 
 A boy named Oliver (8 M) will open the door and ask you what you would like to drink.
+
+Olivier and the black staff were seen in the same room

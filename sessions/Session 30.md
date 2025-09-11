@@ -1,0 +1,34 @@
+
+the below notes where geathered by [[Galadriel i sael|Galadriel]] in the [[Gralhunds|Gralhunds mantion]]
+
+---
+
+(Current year: 1492 DR)
+
+[Diary entry]
+Uktar 4th, 1491 DR
+They have treated us like fools. In the wake of the Lord Murders, with so many vacancies among the Lords and with [[Yalah]]’s lineage, it should have required no effort at all for her to be elevated to her rightful place. For the Gralhunds to be elevated to their rightful place, so that she could guarantee the prosperity of the Gralhunds for future generations. Instead they have taken our money. They have taken our favor. And they have spat in our faces. They have closed their ranks against us once again.
+
+[Diary entry]
+Nightal 21st, 1491 DR
+At the fires of Simril last night, [[Lord Berenger]] spoke to me of a curious matter. Neverember’s Enigma. It seems that the former Open Lord kept some monstrous secret, and now word of that secret is beginning to spread. There are those who believe a Grand Game may be beginning. I sense in this an opportunity to right the great wrong which has been done to Yalah.
+
+[Note - other handwriting]
+We’ve identified the gnome who’s been keeping surveillance on R.N. Dalakhar. An agent of Lord D. Please advise.
+
+[Note]
+Dal. must still be acting under the orders of Lord D. No other explanation for the sudden shift of allegiance.
+
+[Note]
+There are Three Eyes with which [[Neverember’s Enigma]] may be seen. The First Eye is held by [[Xanathar]], and lies somewhere within his lair. Bulette’s report that this lair can be accessed from teleportal sites within X’s sewer hideouts provides a potential means by which this Eye could seized, but in the absence of a synchronized key these teleportal sites are useless.
+
+[Note - other hand writing]
+The Second Eye has almost certainly been taken from [[Lord D]]. Mansion by the Zhentarim. It is more important than ever that we discover where M has hidden his head.
+
+[Note]
+Xanatharians are riled. Word on the street is that something was stolen from them. But not the First Eye. The [[Stone of Golorr]].
+
+[Note]
+What if the “Key to Neverember’s Enigma” which [[Xanathar]] was known to hold in his possession is not, as I have suspected, the Eye? But instead the Stone of Golorr? If so, then what better thief than an agent of [[Dagult]]’s? Perhaps even sent there for that purpose. The gnome has taken the Stone, I am certain of it. If we can find Dalakhar, then we can seize the Key. We can take the Stone.
+
+---
