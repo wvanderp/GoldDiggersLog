@@ -13,6 +13,15 @@ Second in line of a throne (claimed)
 
 Might be dating [[Arthur Silverspeak|Arthur]] (implied by there night walk [[session 7]])
 
+Loves [[camembert sauvignon]]
+
+starts as a happy drunk
+
+
+baned from:
+- [[Snobeedle Orchard and Meadery]]
+- [[Gralhunds]] home
+
 Known spells:
 
 - dancing lights

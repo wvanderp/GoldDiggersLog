@@ -5,7 +5,7 @@ Race: Human
 Gender: Male
 ---
 
-Friend of [[Floon]].
+"Friend" of [[Floon]].
 Son of [[Dagult Neverember]]
 
 Unconfirmed: he Controls the Police
