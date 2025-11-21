@@ -1,3 +1,8 @@
+---
+tags:
+  - session
+---
+
 [[Dan Sing]] and [[Melandor]] go outside and see multiple burned bodies.
 
 including but not limited to

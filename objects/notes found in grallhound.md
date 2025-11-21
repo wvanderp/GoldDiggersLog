@@ -5,7 +5,7 @@ These are the most interesting pieces you noticed:
 
 [Diary entry]
 Uktar 4th, 1491 DR
-They have treated us like fools. In the wake of the [[Lord Murders]] {an event where lords are murderd??}, with so many vacancies among the Lords and with [[Yalah Galhound|Yalah’s]] {miss gralhound} lineage, it should have required no effort at all for her to be elevated to her rightful place. For the [[Gralhunds]] to be elevated to their rightful place, so that she could guarantee the prosperity of the [[Gralhunds]] for future generations. Instead they have taken our money. They have taken our favor. And they have spat in our faces. They have closed their ranks against us once again.
+They have treated us like fools. In the wake of the [[Lord Murders]] {an event where lords are murderd??}, with so many vacancies among the Lords and with [[Yalah Galhound|Yalah’s]] {miss gralhound} lineage, it should have required no effort at all for her to be elevated to her rightful place. For the [[Gralhund Family]] to be elevated to their rightful place, so that she could guarantee the prosperity of the [[Gralhund Family]] for future generations. Instead they have taken our money. They have taken our favor. And they have spat in our faces. They have closed their ranks against us once again.
 
 [Diary entry]
 Nightal 21st, 1491 DR

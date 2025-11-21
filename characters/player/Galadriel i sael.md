@@ -20,7 +20,7 @@ starts as a happy drunk
 
 baned from:
 - [[Snobeedle Orchard and Meadery]]
-- [[Gralhunds]] home
+- [[Gralhund Family]] home
 
 Known spells:
 

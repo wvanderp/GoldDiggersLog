@@ -14,3 +14,9 @@ dansing fisrst floor bottom left
 traris second floor bottom right
 
 ![[Pasted image 20250826200124.png]]
+
+## people working here
+
+- [[Linsy Laugingsteel]]
+- [[Isgrigg & Dupere]]
+- [[Althaea, Elthaea, Ulthaea]]
