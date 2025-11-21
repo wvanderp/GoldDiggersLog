@@ -14,4 +14,6 @@ He's got:
 
 has purple curtains for a good price
 
+invided the owner for the opening of [[Hobsens hub]]
+
 its near the [[Skewered Dragon]] so presumably in the [[Dock Ward]]

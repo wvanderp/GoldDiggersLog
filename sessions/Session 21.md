@@ -16,7 +16,7 @@ We check the contract and it seems all good.
 
 [[Eur dur]] was not allowed to sign in blood; [[Dan sing]] creates a beautiful one.
 
-[[Orond Gralhund|lord Gralhund]] is linked to the figure that was spotted on the [[rooftop]].
+[[Orond Gralhund|lord Gralhund]] is linked to the figure that was spotted on the rooftop.
 
 More [[nimblewright]] assailants were spotted stealing the stone.
 
@@ -25,6 +25,7 @@ Their House is close to [[Hobsens hub]].
 They are hired swords and \[have\] weapons.
 
 **(Map Diagram Notes)**
+
 * The map shows a layout of a compound or house.
 * There is a main gate leading into a courtyard.
 * The building has a 1st Floor and 2nd Floor.

@@ -10,17 +10,15 @@
           {
             "id": "9e7be692b70fea0a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 20.md",
+                "file": "locations/inns/Skewered Dragon.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Session 20"
+              "title": "Skewered Dragon"
             }
           }
         ]
@@ -55,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cas",
+                "query": "swor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 20.md",
+                "file": "locations/inns/Skewered Dragon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 20"
+              "title": "Backlinks for Skewered Dragon"
             }
           },
           {
@@ -181,40 +179,44 @@
   },
   "active": "9e7be692b70fea0a",
   "lastOpenFiles": [
-    "family Cassalanter.md",
-    "sessions/Session 20.md",
-    "objects/Stone of Golorr.md",
-    "Dagult Neverember.md",
+    "locations/Old Xoblob Shop.md",
+    "locations/wards/Dock Ward.md",
+    "locations/inns/Skewered Dragon.md",
     "characters/npc/Mirt the Merciless.md",
-    "characters/npc/Renaer Neverember.md",
-    "sessions/Session 30.md",
-    "characters/npc/Family Estelmer.md",
-    "characters/npc/Yalah groundhund.md",
-    "Broxley Fairkettle.md",
-    "horse drawn carriages.md",
-    "interview for work force.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "characters/sefph Crumbly.md",
-    "characters/npc/Blackstaff.md",
-    "sessions/Session 14.md",
-    "sessions/Session 15.md",
-    "sessions/Session 16.md",
+    "sessions/Session 1.md",
+    "sessions/Session 2.md",
     "locations/inns/Hobsens hub.md",
+    "sessions/Session 21.md",
+    "Untitled.base",
+    "sessions/Session 30.md",
+    "sessions/Session 22.md",
+    "sessions/Session 20.md",
+    "miscellaneous/interview for work force.md",
+    "miscellaneous",
+    "Stone of Golorr.md",
+    "events/Lord Murders.md",
+    "events/fires of Simril.md",
+    "events",
+    "characters/npc/Yalah Gralhund.md",
+    "characters/npc/Orond Gralhund.md",
+    "characters/npc/Lord Berenger.md",
+    "characters/npc/Dagult Neverember.md",
+    "characters/npc/Broxley Fairkettle.md",
+    "characters/npc/Asmodeus.md",
+    "characters/families/Gralhund Family.md",
+    "characters/families/Family Estelmer.md",
+    "characters/families/Family Cassalanter.md",
+    "characters/families",
+    "Urstul Floxin.md",
+    "family Cassalanter.md",
+    "Untitled 1.base",
     "Pasted image 20250826200124.png",
-    "sessions/Session 13.md",
-    "characters/npc/Frodo.md",
-    "characters/npc/bar personal/Linsy Laugingsteel.md",
-    "sessions/Session 17.md",
-    "sessions/Session 7.md",
-    "melanor.md",
-    "missions/Horsing Around.md",
     "images/fromDM/Pasted image 20231218211257.png",
     "images/fromDM/Pasted image 20231218213000.png",
     "images/fromDM/harperLogo.png",
-    "characters/player/Arthur Silverspeak.md",
     "images/memes/Ze2MbC.gif",
     "locations/wards",
+    "Untitled",
     "images/memes/Ze2MbC.gif.crdownload",
     "images/memes/1bGq.gif",
     "images/memes/1bGq.gif.crdownload",
@@ -222,9 +224,6 @@
     "Pasted image 20240227195337.png",
     "images/memes/f4b51ce5-2ae2-4473-b502-ca033ad98d53_text.gif",
     "images/memes/f4b51ce5-2ae2-4473-b502-ca033ad98d53_text.gif.crdownload",
-    "characters/npc/bar personal",
-    "images/fromDM/scarecrowImage.png",
-    "races",
-    "missions"
+    "images/fromDM/scarecrowImage.png"
   ]
 }

@@ -101,7 +101,9 @@ Either
 - kick in the door
 - Or sneak in
 
-We chose to sneak in (the door can always be kicked in). It went very well but then [[Isona Silverspeak|Isona]] got caught
+We chose to sneak in (the door can always be kicked in). It went very well but then [[Isona Silverspeak|Isona]] got caught.
+
+There were some avian creatures in there. [[Kenku]] are spotted.
 
 **roll initiative**
 
