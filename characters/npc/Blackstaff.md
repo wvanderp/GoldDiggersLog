@@ -2,6 +2,8 @@
 alias:
   - olivier
   - Vercera
+gender: Female
+status: Alive
 ---
 
 A tile given.

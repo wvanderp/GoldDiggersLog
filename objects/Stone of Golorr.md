@@ -1,1 +1,1 @@
-forgetting stone
+forgetting stone has the power to make everybody forget something

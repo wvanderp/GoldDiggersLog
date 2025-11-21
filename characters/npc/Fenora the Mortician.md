@@ -1,6 +1,7 @@
 ---
 tags: 
 Gender: Female
+Status: Alive
 aliases:
   - Felora
   - Fenora

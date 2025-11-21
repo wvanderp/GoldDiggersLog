@@ -1,5 +1,6 @@
 ---
 Gender: Female
+Status: Alive
 ---
 
 

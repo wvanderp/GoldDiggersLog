@@ -3,21 +3,25 @@ tags:
   - session
 ---
 
-**Page 1: The Interrogation**
+we start off in the mourge to investigate a gnome was also killed when
 
 * **Question:** What were you \[trying\] to achieve before you died?
-    * **Answer:** Trying to catch the gnome.
+  * **Answer:** Trying to catch the gnome.
 * **Question:** Who do you think threw the fireball from the roof?
-    * **Answer:** No idea.
+  * **Answer:** No idea.
 * **Question:** Where \[were\] you supposed to bring the item the gnome had on him?
-    * **Answer:** No idea.
+  * **Answer:** No idea.
 * **Question:** Why were you trying to catch the gnome?
-    * **Answer:** To get the artifact.
-* **Question:** To whom do you report? What is the name of the person you report to?
-    * **Answer:** [[Urstul Floxin]]. \[He is\] decently high up in the Guild.
+  * **Answer:** To get the artifact.
+* **Question:** To whom do you report? What is the name of the person you report to? ~~to Whom do you Report?~~
+  * **Answer:** [[Urstul Floxin]]. \[He is\] decently high up in the Guild.
+
+someone decently High up in the guild.
 
 We go to the [[Blackstaff]], but she does not know anything.
-Then we go \[to\] the Library.
+
+then we go:
+**The Library**
 
 [[Eur Dur]] looks through his own books but \[finds\] not any info in there.
 

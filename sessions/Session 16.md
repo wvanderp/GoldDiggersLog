@@ -47,7 +47,6 @@ he calmly tells [[Galadriel i sael|Galadriel]]:
 
 [[Eur Dur]] turns around and walks away
 
-
 when that fight fizzled out, [[Traris]] notices some flames in the kitchen. [[Isgrigg & Dupere]] burned some food because they were bickering about who should watch the food.
 
 After that has been handled, [[Fenora the Mortician]] and the clothmaker show up.
@@ -64,12 +63,12 @@ He informs them that they are `very not single`. [[Melandor|Melondor]] was not i
 [[Melandor|Melondor]] talks to [[Volo]] and [[Renaer Neverember|Renaer]] about the [[Blue Ally]] located in the [[Sea ward]]
 It's a challenging dungeon created by a mage. It contains many riches and treasures.
 
-[[Eur Dur]] has been handing out beers to guests and himself and is currently plastered. 
+[[Eur Dur]] has been handing out beers to guests and himself and is currently plastered.
 With the few remaining seats, he starts the following Drunken speech:
 
 > I don't HATE elves
 > and some of them are good people. I guess
-> but when they leave the forest, it's not the best that are leaving 
+> but when they leave the forest, it's not the best that are leaving
 > but that being said. Who wants another round...
 
 [[Melandor|Melondor]] is not amused by the speech and wants to take action. He looks around for bystanders to rile up.
@@ -83,11 +82,10 @@ As he approaches to "put me to bed," [[Eur Dur]] exclaims:
 
 [[Melandor|Melondor]] and [[Traris]] couch [[Eur Dur]] to his chambers, where he flops onto his bed like a wet sandbag.
 
-
-while [[Melandor|Melondor]] and [[Traris]] retire for the evening 
+while [[Melandor|Melondor]] and [[Traris]] retire for the evening
 
 [[Galadriel i sael|Galadriel]] starts inhaling a bottle of liquor
-he continues drinking and pushing down his feelings 
+he continues drinking and pushing down his feelings
 he last falls asleep in the booth with the second bottle half empty.
 
 when the group wakes up [[Galadriel i sael|Galadriel]] is still in the booth
@@ -97,7 +95,7 @@ when the group wakes up [[Galadriel i sael|Galadriel]] is still in the booth
 [[Traris]] is up early to clean
 [[Eur Dur]] is still a bit drunk and is definitely hangover
 
-[[Melandor|Melondor]] wakes up in [[Blackstaff student dorm]] and remembers he left a book with a 10-year old (aka [[Jenks]]) 
+[[Melandor|Melondor]] wakes up in [[Blackstaff student dorm]] and remembers he left a book with a 10-year old (aka [[Jenks]])
 
 Then we hear a large explosion outside
 

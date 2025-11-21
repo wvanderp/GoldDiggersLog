@@ -12,15 +12,16 @@ back at the [[Stoutfellow Farm]] farm [[Dan Sing]], [[Traris]], [[Eur Dur]] and 
 
 we all then noticed that [[Arthur Silverspeak|Arthur]] is gone. but [[Galadriel i sael|Galadriel]] knows that he went to see the [[Blackstaff]].
 
-[[Galadriel i sael|Galadriel]] tries to play the [[Stoutfellow Farm]]. 
-she wanted to buy a barral of wine. by first lowballing and then by intimidating the stoutfellows. 
+[[Galadriel i sael|Galadriel]] tries to play the [[Stoutfellow Farm]].
+she wanted to buy a barral of wine. by first lowballing and then by intimidating the stoutfellows.
 they are now scared of [[Galadriel i sael|Galadriel]] but she secured a deal for 42 gp per barrel.
 but then [[Galadriel i sael|Galadriel]] relised that all wine sales go trought the [[alcohol guild]] and that you cant buy from the wineries directly.
 
 ## the "death" of Arthur
+
 we switch to [[Arthur Silverspeak|Arthur]] who has a "date" with the [[Blackstaff]]. but he for got he had this meeting and is now literly running late.
 
-[[Arthur Silverspeak|Arthur]] decides to take a short cut and while walking trough a small and dingy ally, a crossbow bold hits hit in the shoulder 
+[[Arthur Silverspeak|Arthur]] decides to take a short cut and while walking trough a small and dingy ally, a crossbow bold hits hit in the shoulder
 (providing with 10 damage)
 
 he sees a lot of enemies and he starts running (full speed + action dash + bonus action dash)
@@ -37,9 +38,9 @@ one of the thugs gets hit by an other crossbow arrow and others get hit by norma
 
 ![[harperLogo.png|400]]
 
-as the fight contiues some of the tugs bear the sign of the [[Xanathar|eye people]] 
+as the fight contiues some of the tugs bear the sign of the [[Xanathar|eye people]]
 
-as the fighting dies down [[Arthur Silverspeak|Arthur]] tries to slip out. but he is caught by one of the [[Harpers|harp people]]. 
+as the fighting dies down [[Arthur Silverspeak|Arthur]] tries to slip out. but he is caught by one of the [[Harpers|harp people]].
 
 the harp people says "Arthur don't go anywhere. we are here to help you"
 
@@ -72,6 +73,7 @@ the grape is camabar souvogion
 [[Dan Sing]] gets the attention of the bouncer and throws up into he bathroom because of a sniff of [[camabert]].
 
 then a other wine is served.
+
 ```
 passion fruit with a oak barrel made witha sovion blank grape
 ```
@@ -79,4 +81,3 @@ passion fruit with a oak barrel made witha sovion blank grape
 [[Galadriel i sael|Galadriel]] likes to make a "buisness" deal by offering 30 gp for a 90 gp bottle. angering miss snowbeatle in the process.
 
 we get trown out of the snow beatle farm while provusely appologising to miss snobeatle.
-

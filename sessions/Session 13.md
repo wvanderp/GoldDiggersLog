@@ -19,11 +19,10 @@ so he decides to write a first draft.
 
 [[Dan Sing]] notices that our cat is gone. [[Ned]] admits that she left the door open.
 
-
 [[Traris]] and [[Dan Sing]] start looking for the [[Arthur junior|cat]].
 
 [[Galadriel i sael|Galadriel]] goes to the [[Blackstaff]] and meets [[Oliver]].
-she greets the [[Blackstaff]] with 
+she greets the [[Blackstaff]] with
 > Top of the morning, lady
 
 the [[Blackstaff]] seems sad and informs galadriel that [[Arthur Silverspeak|Arthur]] has perished.
@@ -33,8 +32,6 @@ the [[Blackstaff]] seems sad and informs galadriel that [[Arthur Silverspeak|Art
 [[Galadriel i sael|Galadriel]] asks to see the body. The [[City watch]] is also investigated, and the body is in the morgue.
 
 ![[Arthur-died-OH-NO.png]]
-
-
 
 She was offered a lease-bow, also known as a loan-bow, for the book.
 She starts bidding low at 100 years.
@@ -71,11 +68,9 @@ Suit zucchini in this pocket.
 
 [[Traris]] rents a dark green simple suit.
 
-[[Eur Dur]] and [[Traris]] rent the suit and [[Dan Sing]] buys 
-
+[[Eur Dur]] and [[Traris]] rent the suit and [[Dan Sing]] buys
 
 [[Dan Sing]] creates a sign for [[Hobsens hub]] which counts down till its opening.
 I give [[Counting to ten for orcs]] to [[Ned]]
-
 
 and then [[Renaer Neverember|Renaer]] shows up.

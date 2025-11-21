@@ -2,7 +2,8 @@
 tags:
   - session
 ---
-[[Renaer Neverember]] shows up at [[Hobsens hub]] 
+
+[[Renaer Neverember]] shows up at [[Hobsens hub]]
 
 [[Renaer Neverember|Renaer]] was at his hillside villa recovering form the slast copple of days.
 
@@ -32,7 +33,6 @@ during the break we go up to one of the private boxes and find there [[Mirt the 
 he only stops when he gets intoruped by [[Mirt the Merciless|Mirt]]
 
 he tells us that he is a agent of the [[Harpers]] and invides us to join the [[Harpers]]
-
 
 [[Mirt the Merciless|Mirt]] is accompanied by a young moon elf [[Melandor|Melondor]] who is a student at the [[Blackstaff Academy]]
 
@@ -66,7 +66,7 @@ he also suggest that child labour is iligle in waterdeep
 
 in the afternoon meeting with [[Mirt the Merciless|Mirt]] we all join the [[Harpers]] except [[Eur Dur]] who is only loyal to his friends and the [[Blackstaff]].
 
-[[Mirt the Merciless|Mirt]] has a [[Horsing Around|quest]] for us. 
+[[Mirt the Merciless|Mirt]] has a [[Horsing Around|quest]] for us.
 
 there is a talking [[Maxine the horse]] who is part of a drea (aka a horse drawn carrage)
 ask it about the [[Zhentarim|snake people]].
@@ -90,4 +90,4 @@ and one female half-orc who is posibly [[Yara stonefist]]
 we go and tell this infromation to [[Mirt the Merciless|Mirt]] over at the [[Grinning lion]]
 
 he tells us that we are always welcome to the [[Ulbrinter villa]] of [[Remallia Haventree]] to hide.
-its in the same neighberhood as the [[Hobsens hub]] 
+its in the same neighberhood as the [[Hobsens hub]]

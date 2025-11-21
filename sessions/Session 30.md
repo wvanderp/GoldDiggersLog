@@ -1,3 +1,7 @@
+---
+tags:
+  - session
+---
 
 the below notes where geathered by [[Galadriel i sael|Galadriel]] in the [[Gralhunds|Gralhunds mantion]]
 

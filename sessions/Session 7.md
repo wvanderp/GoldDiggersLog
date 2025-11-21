@@ -29,15 +29,15 @@ They convince the barkeep to take a vacation ^vacation
 when they return from the nightly shenanigans [[Eur Dur]] is waiting for them in the living room
 he implies that they are dating
 
-in the morning [[Galadriel i sael|Galadriel]] wants to meet the [[Blackstaff]] alone. 
+in the morning [[Galadriel i sael|Galadriel]] wants to meet the [[Blackstaff]] alone.
 
 [[Eur Dur]] and [[Dan Sing]] discuss the [[mind flayer]] and gain further understanding.
 
 [[Traris]] goes to the [[House of the Druid cult]]
-when he enters the house, he meets [[melanor]]. 
+when he enters the house, he meets [[melanor]].
 he brings him to the lady of the house [[Lady Elanora]], leader of the [[Emerald enclave]].
 
-[[Traris]] joins the [[Emerald enclave]] and gest tasked to take care of some [[scarecrow]] 
+[[Traris]] joins the [[Emerald enclave]] and gest tasked to take care of some [[scarecrow]]
 
 for joining, [[Traris]] receives a charm of restoration
 it contains six charges
@@ -56,15 +56,16 @@ she will need to contact her contacts and do some research
 
 the [[Arthur Silverspeak|Arthur]] invitest the [[Blackstaff]] for dinner or breakfast. she reluctantly agrees to breakfast
 
-[[Eur Dur]], [[Traris]] and [[Dan Sing]] go to the [[Dock Ward]] police station. 
+[[Eur Dur]], [[Traris]] and [[Dan Sing]] go to the [[Dock Ward]] police station.
 while [[Traris]] splits from the group to "do some parents", eur and Dan go inside
-the ask for [[Captain Staget]] 
+the ask for [[Captain Staget]]
 
 He doesn't know anything about [[Isona Silverspeak|Isona]]. But he doesn't know everything off the top of his head.
 When he checks his papers, he finds a file missing two days ago.
 
 then we ask him about the [[mind flayer|tentacle monster]]. he is not happy that we did not finish the job.
 he found the following in the sewers after we left
+
 - no [[mind flayer|tentacle monster]]
 - not much
 - "The investigation is still ongoing"

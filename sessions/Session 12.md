@@ -13,11 +13,11 @@ the guards dont seam to pay mutch atention to him.
 
 after some more waiting we notice a red glow further into the field and two [[scarecrow]] come alive.
 
-[[Dan Sing]] shoots a arrow into a tree. to show them who is boss. 
+[[Dan Sing]] shoots a arrow into a tree. to show them who is boss.
 
 [[Eur Dur]] moves to the location of the [[scarecrow]] but is scared of the [[scarecrow|scarecows]] and is paralysed.
 
-[[Galadriel i sael|Galadriel]] goes down (to 0 hp) but gets picked up by [[Traris]] healing word. 
+[[Galadriel i sael|Galadriel]] goes down (to 0 hp) but gets picked up by [[Traris]] healing word.
 
 [[Dan Sing]] goes down but gets stabilised by [[Eur Dur]].
 
@@ -29,7 +29,6 @@ after some more waiting we notice a red glow further into the field and two [[sc
 
 the two [[scarecrow]] that were atacking [[Dan Sing]] now go after [[Eur Dur]] and slices him down.
 
-
 but then when we looked to the east at first light.
 
 ![[tumblr_n53yj4pPsu1qfhux7o1_500.webp]]
@@ -39,6 +38,6 @@ they heal all party members and slay all evil in the area.
 
 the [[Emerald enclave]] came to save us. they appogised for sending us on a too dificult mision.
 
-we geather our stuff and return to the city. when when we came back to the [[Hobsens hub]] we got word that we were visited by one of the [[Renaer Neverember|neverembers]] 
+we geather our stuff and return to the city. when when we came back to the [[Hobsens hub]] we got word that we were visited by one of the [[Renaer Neverember|neverembers]]
 
 and [[Galadriel i sael|Galadriel]] send [[Squiddly]] to make a apointment to with the [[Blackstaff]]

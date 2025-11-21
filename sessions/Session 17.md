@@ -6,6 +6,7 @@ tags:
 [[Dan Sing]] and [[Melandor]] go outside and see multiple burned bodies.
 
 including but not limited to
+
 ```
 1 chared body
 2 aduld sized bodies
@@ -61,7 +62,6 @@ this should be celebrated
 
 after some investigation with mage hand and ultimatly opening it with mange hand the package contains gift
 
-
 | name                   | true ability                  | fake ability                     | taker                           |
 | ---------------------- | ----------------------------- | -------------------------------- | ------------------------------- |
 | Cloak of Billowing     | billow dramatically           | changes colour at dawn           | [[Dan Sing]]                    |
@@ -81,6 +81,7 @@ and they go to the festival of automation and the gaunt. to ask around for more 
 
 the others descide to open the hub. and right on thime [[Althaea, Elthaea, Ulthaea|AEU]] float in.
 when asked about this morning they state that:
+
 ```
 A greate betreal happend
 ```
@@ -90,4 +91,3 @@ A greate betreal happend
 ---
 
 then a coffin arives and we have the funural for [[Arthur Silverspeak|Arthur]]. eurdur has a speach and we lay him to rest.
-

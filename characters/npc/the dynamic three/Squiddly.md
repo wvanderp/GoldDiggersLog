@@ -1,6 +1,7 @@
 ---
 Race: Tiefling
 Gender: Male
+Status: Alive
 ---
 
 

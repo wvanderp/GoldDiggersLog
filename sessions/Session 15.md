@@ -15,7 +15,7 @@ we then buy siome ads
 
 ---
 [[Melandor]] talks to [[Mirt the Merciless|Mirt]] about payment for rendered servises
-apperantly [[Melandor]] is alaeric to childeren. 
+apperantly [[Melandor]] is alaeric to childeren.
 
 [[Mirt the Merciless|Mirt]] and [[Melandor]] work for ak kopple of 10 days
 
@@ -30,4 +30,3 @@ them [[Melandor]] asks [[Mirt the Merciless|mert]] about the thives guild
 [[Eur Dur]] tries to buy a health potion but its too expancive.
 
 [[Melandor]] takes [[Jenks]] to the [[Blackstaff]] and [[Jenks]] is real exitied
-
